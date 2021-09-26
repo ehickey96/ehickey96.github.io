@@ -1,7 +1,7 @@
 ## ePortfolio
 
 ## Code Review
-My code review for my three artifacts can be found [here] (https://youtu.be/ZsL6YUIJrj4)
+My code review for my three artifacts can be found [here](https://youtu.be/ZsL6YUIJrj4)
 
 ## Welcome to  Pages
 
