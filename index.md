@@ -1,5 +1,8 @@
-## ePortfolio
+## ePortfolio - Elijah Hickey
 
+## Artifact One - Design
+This artifact demonstrates my ability to take a C++ program and convert it to another language (C++) while added complexities. 
+You can find this artifact [here](https://github.com/ehickey96/ePortfolio-Artifact-One)
 ## Code Review
 My code review for my three artifacts can be found [here](https://youtu.be/ZsL6YUIJrj4)
 
