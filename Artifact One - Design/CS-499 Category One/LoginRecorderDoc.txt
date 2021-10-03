@@ -1,0 +1,3 @@
+Failed Login (Incorrect Username) User: snhuehick with password: 4255 at 2021/09/19 13:48:54
+Failed Login (Incorrect Password) User: snhuEhick with password: 4245 at 2021/09/19 13:49:07
+Successful Login by user: snhuEhick with password: ***** at 2021/09/19 13:49:13

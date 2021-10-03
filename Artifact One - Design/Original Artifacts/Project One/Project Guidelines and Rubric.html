@@ -1,0 +1,351 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link
+      type="text/css"
+      href="https://s.brightspace.com/lib/fonts/0.4.0/fonts.css"
+      rel="stylesheet"
+    />
+
+    <style>
+      h2 {
+        margin-bottom: 0;
+      }
+      p {
+        margin-top: 0;
+      }
+
+      #rubric-responsive table {
+        margin-left: auto;
+        margin-right: auto;
+        border-collapse: collapse;
+        max-width: 1080px;
+        width: 100%;
+        table-layout: fixed;
+      }
+
+      #rubric-responsive thead th:first-child {
+        width: 17%;
+      }
+      #rubric-responsive thead th:last-child {
+        width: 10%;
+      }
+
+      #rubric-responsive th,
+      #rubric-responsive td,
+      #rubric-responsive tbody > tr > :nth-child(1) {
+        border: 1px solid black;
+        padding: 7px;
+      }
+
+      #rubric-responsive th,
+      #rubric-responsive tbody > tr > :nth-child(1) {
+        background-color: #f5f5f5;
+      }
+
+  
+      #rubric-responsive td,
+      #rubric-responsive tbody > tr > :nth-child(1) {
+        vertical-align: text-top;
+      }
+
+      /* Center data in "Value" column */
+      #rubric-responsive tbody > tr > :last-child {
+        text-align: center;
+      }
+
+      /* Style first column like header row in case <th> isn't used */
+      #rubric-responsive tbody > tr > :nth-child(1) {
+        font-weight: bold;
+        text-align: center;
+      }
+
+      @media only screen and (max-width: 800px) {
+
+        /* Display table elements as block */
+        #rubric-responsive table,
+        #rubric-responsive thead,
+        #rubric-responsive tbody,
+        #rubric-responsive th,
+        #rubric-responsive td,
+        #rubric-responsive tr,
+        #rubric-responsive tfoot {
+          display: block;
+        }
+
+        #rubric-responsive caption {
+          display: inline-block;
+          margin: 0px auto;
+        }
+
+        /* Remove border from table and center it on screen */
+        #rubric-responsive table {
+          border: none;
+          margin-left: auto;
+          margin-right: auto;
+          margin-top: 20px;
+        }
+
+
+      /* Hide table headers (but not display: none; (for accessibility) */
+        #rubric-responsive thead tr {
+          position: absolute;
+          top: -9999px;
+          left: -9999px;
+        }
+
+        /* Style responsive table rows */
+        #rubric-responsive tr {
+          border: 1px solid #ccc;
+        }
+
+        /* Style responsive table cells */
+        #rubric-responsive td {
+          border: none;
+          border-bottom: 1px solid #eee;
+        }
+
+        #rubric-responsive td:before {
+        /* Bring "data-title" attribute into table cells */
+          content: attr(data-attr);
+        /* display it as inline block so it doesn't interfere with <td> */
+          display: inline-block;
+        /* make it take up it's entire "row" */
+          width: 100%;
+        /* bold font so it looks like a th */
+          font-weight: bold;
+        }
+
+    /* Remove "data-title" attribute from first child <td> cells */
+    /* this removes "Criteria" from the Total row, and will remove criteria from any <td> cells that should be <th> */
+        #rubric-responsive tbody>tr>td:first-child:before {
+            content: none;
+        }
+
+        /* Center data in "Value" column */
+        #rubric-responsive tbody > tr > :last-child {
+          text-align: left;
+        }
+
+        /* Don't display "100%" cell */
+        #rubric-responsive tr:last-child td:last-of-type {
+          display: none;
+        }
+
+        /* Add "100%" after Total:  */
+        #rubric-responsive
+          tr:last-child
+          td:first-of-type::after {
+          content: " 100%";
+        }
+        /* remove padding from last row */
+        #rubric-responsive tr:last-child > td {
+          padding: 7px;
+        }
+      }
+
+      /* Print Styles*/
+      @media print {
+        @page {
+          size: landscape;
+        }
+
+        span.rsbtn_text {
+          display: none !important;
+        }
+
+        p,
+        ul,
+        ol,
+        li,
+        table,
+        thead,
+        tbody,
+        th,
+        td,
+        tr,
+        tfoot {
+          font-size: 12px;
+        }
+
+        h1,
+        h2 {
+          font-size: 90%;
+        }
+
+        h3,
+        h4,
+        h5,
+        h6 {
+          font-size: 80%;
+        }
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6,
+        p {
+          margin-bottom: 5px;
+          margin-top: 0px;
+        }
+
+        ul,
+        ol {
+          margin-bottom: 5px;
+          margin-top: 0px;
+        }
+
+        .d-print-none {
+          display: none;
+        }
+
+        .d-print-block {
+          display: block;
+        }
+      }
+    </style> 
+
+  </head>
+  <base target="_blank" />
+<body style="font-family: Lato, sans-serif; font-size: 18px; line-height: 1.5; color: #565a5c;">
+<h2>Competencies</h2>
+<p>In this project, you will demonstrate your mastery of the following competencies:</p>
+<ul>
+<li>Utilize fundamental reverse engineering technologies and practices</li>
+<li>Apply the fundamentals of assembly language in reverse engineering tasks</li>
+</ul>
+<h2>Scenario</h2>
+<p>SNHU Investments is a large investment company that offers brokerage and retirement services. They have been in business since the early 1980s. Recently, they have been trying to move their legacy code into a cloud-based application. This resulted in the company looking to hire an additional software engineer. You applied for the position and were selected to participate in a proficiency test as part of the interview process. In the proficiency test, you must demonstrate your ability to reverse engineer code.</p>
+<p>For the purposes of this proficiency test, you will be given an existing client management application that the company uses. You will convert the application into assembly code, explain the code, and convert it into C++ to create a working program.</p>
+<h2>Directions</h2>
+<p>For this project, you will take the existing binary file (O file) for the client management application, convert it to assembly code, convert the assembly code to C++ (CPP file) with an added output statement, and create a new binary file.</p>
+<ol>
+<li>Convert the binary file (O file) into assembly code.
+<ul>
+<li>Decompile the binary file found in the Software Reverse Engineering Playground in the Project One Files folder in Codio.</li>
+</ul>
+</li>
+</ol>
+<ol start="2">
+<li>Explain the functionality of the blocks of assembly code.
+<ul>
+<li>Use the Project One Proficiency Test Template, located in the Supporting Materials section, to complete this step.</li>
+</ul>
+</li>
+</ol>
+<ol start="3">
+<li>Convert the assembly code into C++ code (CPP file).
+<ul>
+<li>Compile the C++ code in the Eclipse IDE.</li>
+</ul>
+</li>
+</ol>
+<ol start="4">
+<li>Add an output statement to the beginning of the C++ code (CPP file).
+<ul>
+<li>For example, you could add a &ldquo;Created by (name)&rdquo; statement for when the program opens, or a statement of your choice.</li>
+</ul>
+</li>
+</ol>
+<ol start="5">
+<li>Convert the CPP file to a new binary file (O file).</li>
+</ol>
+<h2>What to Submit</h2>
+<p>To complete this project, you must submit the following:</p>
+<p><strong>Project One Proficiency Test Template</strong><br />This should be a Word Document (DOCX) with an explanation of all blocks of assembly code. Use the template linked in the Supporting Materials section.</p>
+<p><strong>C++ File (CPP file)</strong><br />This file is needed to ensure that the code can be altered. It is not the executable file. This will include your added output statement.</p>
+<p><strong>Binary File (O file)</strong><br />This file is needed to run the application showing your added output statement. This is considered the executable file.</p>
+<h2>Supporting Materials</h2>
+<p>The following resource(s) may help support your work on the project:</p>
+<p><a href="course_documents/CS%20410%20Project%20One%20Proficiency%20Test%20Template.docx" target="_blank" rel="noopener">Project One Proficiency Test Template</a><br />Use this template to explain the functions of the assembly code blocks. This document includes tables with headings to include explanations for &ldquo;main&rdquo;, ChangeCustomerChoice, and additional functions.</p>
+<p><strong>Guide to Software Reverse Engineering</strong><br />This guide provides information on the process of software reverse engineering, assembly language, binary, C++, and more.</p>
+<p><a href="/d2l/common/dialogs/quickLink/quickLink.d2l?ou=796932&amp;type=content&amp;rcode=snhu-1508444" target="_blank" rel="noopener">Codio Guide</a><br />This guide provides information on how to use the Codio platform to complete aspects of this project.</p>
+<div id="rubric-responsive">
+<table><caption>
+<h2>Project One Rubric</h2>
+</caption>
+<thead>
+<tr>
+<th>Criteria</th>
+<th>Exemplary</th>
+<th>Proficient</th>
+<th>Needs Improvement</th>
+<th>Not Evident</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Binary to Assembly Conversion</th>
+<td style="background-color: #d4d4d4;">N/A</td>
+<td>Converts binary file into assembly code (100%)</td>
+<td>Shows progress toward proficiency, but with errors or omissions; areas for improvement may include converting the binary file into assembly code (55%)</td>
+<td>Does not attempt criterion (0%)</td>
+<td>16.67</td>
+</tr>
+<tr>
+<th>Assembly Code Functionality Explanation</th>
+<td>Exceeds proficiency in an exceptionally clear, insightful, sophisticated, or creative manner (100%)</td>
+<td>Explains the functionality of the blocks of assembly code with adequate detail and no inaccuracies (85%)</td>
+<td>Shows progress toward proficiency, but with errors or omissions; areas for improvement may include explanations of the functionality of the blocks of assembly code with richer detail and no inaccuracies (55%)</td>
+<td>Does not attempt criterion (0%)</td>
+<td>23.33</td>
+</tr>
+<tr>
+<th>Assembly Code Conversion to C++</th>
+<td style="background-color: #d4d4d4;">N/A</td>
+<td>Converts assembly code into C++ code with no inaccuracies or missing functionality (100%)</td>
+<td>Shows progress toward proficiency, but with errors or omissions; areas for improvement may include converting assembly code into C++ code with few inaccuracies or missing functionality (55%)</td>
+<td>Does not attempt criterion (0%)</td>
+<td>26.67</td>
+</tr>
+<tr>
+<th>Added Output Statement</th>
+<td>Exceeds proficiency in an exceptionally clear, insightful, sophisticated, or creative manner (100%)</td>
+<td>Adds an output statement to the beginning of C++ code (85%)</td>
+<td>Shows progress toward proficiency, but with errors or omissions; areas for improvement may include adding an output statement to the beginning of the C++ code (55%)</td>
+<td>Does not attempt criterion (0%)</td>
+<td>13.33</td>
+</tr>
+<tr>
+<th>C++ Conversion to Binary</th>
+<td style="background-color: #d4d4d4;">N/A</td>
+<td>Converts C++ code into binary code (100%)</td>
+<td>Shows progress toward proficiency, but with errors or omissions; areas for improvement may include converting C++ code into binary code (55%)</td>
+<td>Does not attempt criterion (0%)</td>
+<td>16.67</td>
+</tr>
+<tr>
+<th>Articulation of Response</th>
+<td>Exceeds proficiency in an exceptionally clear, insightful, sophisticated, or creative manner (100%)</td>
+<td>Clearly conveys meaning with correct grammar, sentence structure, and spelling, demonstrating an understanding of audience and purpose (85%)</td>
+<td>Shows progress toward proficiency, but with errors in grammar, sentence structure, and spelling, negatively impacting readability (55%)</td>
+<td>Submission has critical errors in grammar, sentence structure, and spelling, preventing understanding of ideas (0%)</td>
+<td>3.33</td>
+</tr>
+<tr>
+<td colspan="5" style="text-align: right;">Total:</td>
+<td>100%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- /#rubric-responsive -->
+<p>
+<script src="/shared/custom_html/shared/jquery/3.3.1/jquery.min.js"></script>
+<script>
+    var $th = $("thead th");
+    $('tbody tr td').attr('data-attr', function () {
+      return $th.eq($(this).index()).text();
+    });
+
+    $("thead th").attr('scope', 'col');
+    $("tbody th").attr('scope', 'row');
+    </script>
+</p>
+</body>
+</html>
