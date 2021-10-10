@@ -3,6 +3,11 @@
 ## Artifact One - Design
 This artifact demonstrates my ability to take a C++ program and convert it to another language (C++) while added complexities. 
 You can find this artifact [here](https://github.com/ehickey96/ePortfolio-Artifact-One)
+
+## Artifact Two - Algorithms
+This artifact demonstrates my ability to convert an older system in a more rubust and complex system, and my ability to use additional complex algorithms.
+You can find this artifact [here](https://github.com/ehickey96/ePortfolio-Artifact-Two)
+
 ## Code Review
 My code review for my three artifacts can be found [here](https://youtu.be/ZsL6YUIJrj4)
 
