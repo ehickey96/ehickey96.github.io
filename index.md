@@ -1,50 +1,126 @@
-## ePortfolio - Elijah Hickey
+# ePortfolio - Elijah Hickey
 
-## Artifact One - Design
-This artifact demonstrates my ability to take a C++ program and convert it to another language (C++) while added complexities. 
-You can find this artifact [here](https://github.com/ehickey96/ePortfolio-Artifact-One)
+# Professional Self Reflection
+<details>
+  <summary></summary>
+  
+  TO:DO
+  
+</details>
 
-## Artifact Two - Algorithms
-This artifact demonstrates my ability to convert an older system in a more rubust and complex system, and my ability to use additional complex algorithms.
-You can find this artifact [here](https://github.com/ehickey96/ePortfolio-Artifact-Two)
+ ## Artifact Selection and Refinement Plan
+<details>
+  <summary>Click to Expand</summary>
+
+
+This is a showcase of my original artifact selection & refinement plan. Originally, I planned on creating a new artifact from scratch (the category thre
+
+### I. Artifact One: Software Engineering/Design 
+The artifact for the first Category will be taken from my CS-410 Project One and Two. These projects required me to take an object file, explain its functionality, and using that make a similar cpp file. Then for project two I had to identify coding vulnerabilities and fix them. For the enhancements, 
+The enhancement plan will start by recreating the original C++ program into a Java program. Once the program is remade, the next steps will be to add enhancements. An example of specific enhancements include adding a function that records each successful login (the username, password, and what time it takes place.) Another enhancement would also require usernames to be valid, and correspond to their given password. See flowchart on following page.
+The main skill being illustrated here is my ability to recreate a program into another language, while retaining the original programs look and functionality. This aligns with the category one modification to transfer a project into a different language. Login accounting and proper username / password pair verification aligns with the enhancements of improving and expanding a projects complexity. 
+
+### II. Artifact Two: Algorithms and Data Structures 
+This artifact came from my IT-145 Project. The original project was a simple console application that allowed users to see the ships, cruises, and passengers, and add or edit them.
+The enhancement plan follows the flowchart seen on the next page, yellow highlights the additional complexities. It looks to add more complicated algorithms and data structures to the program. It does this be adding many different attributes to each object type. Some of the attributes would be automatically calculated (such as Net Profit for a cruise.) The main modification would be expanding complexity of algorithms. For this, a recommended price calculator/simulator will recommend what can be done to match the goal profit based off expected passengers, expected room allocations ratios, and the maximum expected amount each tier of passenger is willing to spend on a room type and the variance expected within that maximum. It will work by distributing the expected passengers within the rooms based off the given ratios, and determine what price’s can be set for each room type to meet the profit goals (a passenger is removed if their preferred room type is out of their maximum spending amount.) 
+This calculator is the main modification being made and adds a complex algorithm to calculate and simulate passenger distribution. This is used to help gauge what the price of each room should be set to, that way desired profit margins can better be met. This modification aligns with the expanded complexity of algorithms modification. 
+
+### ~~III. Artifact Three: Databases~~  (Outdated)
+	This artifcat does not currently exist, as the only three projects I have worked on that work 
+    with databases are locked behind my older courses. So this new project will be creating a 
+    full stack web application program that connects to a MongoDB with a python middleware. 
+	The enhancement plan is to create a full stack web application from scratch. It will start 
+    by creating a CSV file with the given data and then importing it to MongoDB. Then a Python 
+    Module will be used to perform operations on the database (CRUD operations minimum.) 
+    Finally a basic web application will be used to display results from the database, 
+    with the python module being used as middleware. The current plan is also to use Jupyter 
+    to create the front end of the stack. This demonstrates being able to make a full stack 
+    application, which is a variance of one of the recommended modifications for category three. 
+
+### III. Artifact Three: Updated
+After the initial refinement plan, I 
+</details>
 
 ## Code Review
 My code review for my three artifacts can be found [here](https://youtu.be/ZsL6YUIJrj4)
 
-## Welcome to  Pages
+ ## Artifact One - Design - *Narrative*
+<details>
+  <summary>Click to expand</summary>
+  
+  
+**Artifact Description**
+  
+The artifact is a C++ program file. It was originally a product of my CS-410 Reverse Engineering final projects, which were finished in August 2021. The project was to take an object file without any documentation and recreate it as a C++ program after interpreting the assembly code, then applying some security fixes to it. 
+  
+**Justification**
+  
+This artifact was chosen as I felt it was basic but easily could be improved or modified in many ways. Additionally, the choice to use this artifact was based on it also being a prime candidate to add a database to, without being overly complicated. This artifact also shows my reverse engineering ability, and felt that being able to recreate this into another language (Java) also demonstrated an important and related skillset. The artifact has been improve as it now properly validates a proper username/password combination, and will record login history or attempts to a text file (or create the text file if there is none.) 
+  
+**Fulfillment of Course Objectives**
+  
+The enhancements planned in Module one was met with this updated artifact; it was successfully recreated in Java, properly validates both a correct username and corresponding password, and records successful logins or attempts to a text file. Updated plans for this mostly revolve around Enhancement Three (databases), when a database will be tied into the program, and will contain the clients, users and login records. CRUD functionality will be added so the database can be used from the program. 
 
-You can use the [editor on GitHub](https://github.com/ehickey96/ehickey96.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+**Reflection**
+  
+During my enhancement, I immediately realized how rusty I was at Java compared to C++. This turned out to be a positive for me, as it gave me more experience with Java, and showed my ability to work with languages I am less comfortable with. I imagine the main challenges for this assignment will be to come during Enhancement Three and the inclusion of a database. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ [Artifact One Github Link](https://github.com/ehickey96/ePortfolio-Artifact-One)
+  
+</details>
 
-### Markdown
+## Artifact Two - Algorithms - *Narrative*
+<details>
+  <summary>Click to expand</summary>
+  
+  
+ **Artifact Description**
+  
+The artifact is a Java program that was originally a project of my IT-145 Course. For this project, we were given a partially made menu-based program to manage cruises, ships, and passengers for a cruise company. This had specific requirements that we had to follow, but most of the project was just setting up basic object classes, and menu system handling.  
+  
+**Justification**
+  
+I chose this artifact, as I felt it was more complicated than the previous and could simply be modified to become a much more advanced system. I felt it was a clean base program that could be brought in multiple different directions. An additional benefit is that I will also be gaining even more Java experience which was something I was hoping for at the start of this course. This artifact was very elementary, but after successfully applying my enhancements well clearly show my ability to handle expanding to a more complex system, and my ability to incorporate more complicated algorithms. 
+  
+**Fulfillment of Course Objectives**
+  
+The enhancements originally planned in the refinement plan were not exactly met, but the results are similar. My updated menu system has much added complexities such as many extra attributes, and a simulation/calculation functions which showcase more complicated algorithms. Where my worked varied was the specific way I made a simulated. The main difference between the original plan the enhanced artifact I actually made is that I added many more features and distributed some into various different features (for instance, I have profit calculators and customer distributions as separate functions compared to my original plan which had them combined.) Where the enhanced algorithms show is in the calculator/simulator menu, which has two different calculator types (which can be used to optionally change the room prices if the user wants,) as well as a simulator which makes a mock list of customers and distributes them based on a number of factors and the use of RNG. This completes the requirement of adding a complex algorithm. 
+  
+**Reflection**
+  
+During this enhancement, I made a big mistake by adding too many attributes and adding a system that connects these various classes. This ended up creating a snowball effect of creating a complicated program that was hard to track and was taking a lot of work to maintain. I feel this program has a lot of positives, but before I submit it to the ePortolio, I plan to do a ton of clean up on the program within the code to consolidate as much of the code as possible. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+  [Artifact Two Github Link](https://github.com/ehickey96/ePortfolio-Artifact-Two)
 
-# Header 1
-## Header 2
-### Header 3
+</details>
 
-- Bulleted
-- List
+## Artifact Three - Databases - *Narrative*
+<details>
+  <summary>Click to expand</summary>
+  
+  
+  **Artifact Description**
+  
+The original artifact comes from the first enhancement included within the ePortfolio. A description of the ORIGINAL (the one that the first enhancement modified is as follows: 
+“The artifact is a Java program that was originally a project of my IT-145 Course. For this project, we were given a partially made menu-based program to manage cruises, ships, and passengers for a cruise company. This had specific requirements that we had to follow, but most of the project was just setting up basic object classes, and menu system handling. “
+The previous artifact was a recreated Java version of that program (it was originally C++). It included a proper username/password validation and a login recorder.
+  
+**Justification**
+  
+This artifact was chosen because it seemed the most straight forward to add a database too. Since I had to add a database to a program which was not designed around a database, I thought a simpler program would be the most reasonable for a database within this time window. This worked well, as I could add the database, and then add more complexities, rather than the other way around. This will help meet requirements by demonstrating the incorporation of a DB within a project, search functionality and some CRUD functionality within (currently I plan to add a delete and add client methods, due to time restraints wont be included for this submission.)
+  
+**Fulfillment of Course Objectives**
+  
+The enhancement plan described by the approved code review is this enhancement. This enhancement differs from the one found in the 1-4 submission, but I feel it demonstrates complexities of adding a database to a preexisting program (something I have not done or attempted before). This program has partial CRUD operations (added the add and remove options is very straightforward and I know I can easily accomplish that.) It additionally has proper checking so that it can connect to the database and will automatically use a mock data instead if no connection can be made. 
+  
+**Reflection**
+  
+During this enhancement I was nervous about the inclusion of a database into an existing program, as that was new for me. I also had never created my own database before. I set up MySQL on my computer, and after I while I figured out how to properly create the database and users for it. I filled the database, then began working towards incorporating the database within the artifact. The artifact works by asking if the user wants to connect to the database. If the user says no, or if they say yes but the connection cannot be completed, the program will run the entire time utilizing only the mock hardcoded data. If a db connection is made, it will utilize the db. This was a great learning experience as there was a lot of new concepts for me here. 
+  
+NOTE: Demo Video can be found here. 
+https://youtu.be/WcCb6wnTHH0
+  
+</details>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ehickey96/ehickey96.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
