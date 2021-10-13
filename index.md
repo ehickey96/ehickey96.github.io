@@ -2,7 +2,9 @@
 
 # Professional Self Reflection
 <details>
-  <summary></summary>
+  <summary> 
+	  Professional Self Reflection
+	</summary>
   
   TO:DO
   
