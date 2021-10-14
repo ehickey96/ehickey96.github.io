@@ -246,8 +246,7 @@ Here is a snippet of a function that from grabbed all the clients from the datab
 </details>
 
 ### Artifact Three | Databases | Updated
-<details>
-  <summary>Click to expand</summary>
+
 <br/>
 	
 ![image](https://user-images.githubusercontent.com/79385657/137342764-c526ba17-ecdd-4a4a-a206-b52247e60505.png)!
@@ -267,7 +266,7 @@ The github page for this project will have a README discussing how to use the pr
 	
 	
 <br/>
-</details>
+
 
 ## Contact
 Feel free to contact me with any questions or inquires via email at <elijah.hickey@snhu.edu>
