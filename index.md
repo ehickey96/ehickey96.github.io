@@ -1,3 +1,6 @@
+# About this ePortfolio
+   This ePortfolio will showcase a journey I took. The goal was to take older project I had, and improve upon them to create polished professional projects that showcased my skills as a software engineer. I started with a enhancement plan which discussed the projects, how they could be improved, and what those improvements show. Then, I performed a code review for those original projects. Then work began on improving the various artifacts. Finally, I made a professional Self Reflection to highlight the journey, showcase my skills and what a learned, and highlight my strengths as a software engineer. The index can be used to jump to each section, and links to each project's github page or other various other links are found within this document. 
+
 # Index
 1. [Professional Self Reflection](ehickey96.github.io/blob/main/index.md#professional-self-reflection)
 2. [Artifact Selection & Refinement Plan](ehickey96.github.io/blob/main/index.md#artifact-selection-and-refinement-plan)
@@ -9,12 +12,14 @@
 4. [Artifact One Enhancement Narrative](ehickey96.github.io/blob/main/index.md#artifact-one---design---narrative)
 5. [Artifact Two Enhancement Narrative](ehickey96.github.io/blob/main/index.md#artifact-two---algorithms---narrative)
 6. [Artifact Three Enhancement Narrative](ehickey96.github.io/blob/main/index.md#artifact-three---databases---narrative)
+7. [Artifact Three - Update]()
 
-# Professional Self Reflection Test V10
+# Professional Self Reflection Test V11
 
 TO:DOLink test
 ## Header test	
-*Italics*		
+*Italics*
+<br/>
 **Bold**	
 <br/>	
 [link](https://youtu.be/ZsL6YUIJrj4)	
@@ -24,41 +29,33 @@ TO:DOLink test
 
 
 ## Artifact Selection and Refinement Plan
-
 This is a showcase of my original artifact selection & refinement plan. Originally, I planned on creating a new artifact from scratch (the category thre
 
  
 <details>
 	<summary>I. Artifact One: Design</summary>
-	The artifact for the first Category will be taken from my CS-410 Project One and Two. These projects required me to take an object file, explain its functionality, and using that make a similar cpp file. Then for project two I had to identify coding vulnerabilities and fix them. For the enhancements, 
+	
+   The artifact for the first Category will be taken from my CS-410 Project One and Two. These projects required me to take an object file, explain its functionality, and using that make a similar cpp file. Then for project two I had to identify coding vulnerabilities and fix them. For the enhancements, 
 The enhancement plan will start by recreating the original C++ program into a Java program. Once the program is remade, the next steps will be to add enhancements. An example of specific enhancements include adding a function that records each successful login (the username, password, and what time it takes place.) Another enhancement would also require usernames to be valid, and correspond to their given password. See flowchart on following page.
 The main skill being illustrated here is my ability to recreate a program into another language, while retaining the original programs look and functionality. This aligns with the category one modification to transfer a project into a different language. Login accounting and proper username / password pair verification aligns with the enhancements of improving and expanding a projects complexity. 
-	</details>
+	
+</details>
 	
 <details>
 	<summary>II. Artifact Two: Algorithms and Data Structures</summary>
-	<br/>
-	
-This artifact came from my IT-145 Project. The original project was a simple console application that allowed users to see the ships, cruises, and passengers, and add or edit them.
-	
-<br/>	
-	
-The enhancement plan follows the flowchart seen on the next page, yellow highlights the additional complexities. It looks to add more complicated algorithms and data structures to the program. It does this be adding many different attributes to each object type. Some of the attributes would be automatically calculated (such as Net Profit for a cruise.) The main modification would be expanding complexity of algorithms. For this, a recommended price calculator/simulator will recommend what can be done to match the goal profit based off expected passengers, expected room allocations ratios, and the maximum expected amount each tier of passenger is willing to spend on a room type and the variance expected within that maximum. It will work by distributing the expected passengers within the rooms based off the given ratios, and determine what price’s can be set for each room type to meet the profit goals (a passenger is removed if their preferred room type is out of their maximum spending amount.) 
-	
-<br/>	
-	
-This calculator is the main modification being made and adds a complex algorithm to calculate and simulate passenger distribution. This is used to help gauge what the price of each room should be set to, that way desired profit margins can better be met. This modification aligns with the expanded complexity of algorithms modification. 
-	
 <br/>
-
+This artifact came from my IT-145 Project. The original project was a simple console application that allowed users to see the ships, cruises, and passengers, and add or edit them.
+<br/>
+   The enhancement plan follows the flowchart seen on the next page, yellow highlights the additional complexities. It looks to add more complicated algorithms and data structures to the program. It does this be adding many different attributes to each object type. Some of the attributes would be automatically calculated (such as Net Profit for a cruise.) The main modification would be expanding complexity of algorithms. For this, a recommended price calculator/simulator will recommend what can be done to match the goal profit based off expected passengers, expected room allocations ratios, and the maximum expected amount each tier of passenger is willing to spend on a room type and the variance expected within that maximum. It will work by distributing the expected passengers within the rooms based off the given ratios, and determine what price’s can be set for each room type to meet the profit goals (a passenger is removed if their preferred room type is out of their maximum spending amount.) 
+<br/>
+   This calculator is the main modification being made and adds a complex algorithm to calculate and simulate passenger distribution. This is used to help gauge what the price of each room should be set to, that way desired profit margins can better be met. This modification aligns with the expanded complexity of algorithms modification. 
+<br/>
 </details>
 	
 <details>
   <summary>III. Artifact Three: Database (Scrapped)</summary>
-	<br/>	
-	
-This artifcat does not currently exist, as the only three projects I have worked on that work with databases are locked behind my older courses. So this new project will be creating a full stack web application program that connects to a MongoDB with a python middleware. The enhancement plan is to create a full stack web application from scratch. It will start by creating a CSV file with the given data and then importing it to MongoDB. Then a Python Module will be used to perform operations on the database (CRUD operations minimum.) Finally a basic web application will be used to display results from the database, with the python module being used as middleware. The current plan is also to use Jupyter to create the front end of the stack. This demonstrates being able to make a full stack application, which is a variance of one of the recommended modifications for category three. 
-
+<br/>	
+>This artifact does not currently exist, as the only three projects I have worked on that work with databases are locked behind my older courses. So this new project will be creating a full stack web application program that connects to a MongoDB with a python middleware. The enhancement plan is to create a full stack web application from scratch. It will start by creating a CSV file with the given data and then importing it to MongoDB. Then a Python Module will be used to perform operations on the database (CRUD operations minimum.) Finally a basic web application will be used to display results from the database, with the python module being used as middleware. The current plan is also to use Jupyter to create the front end of the stack. This demonstrates being able to make a full stack application, which is a variance of one of the recommended modifications for category three. 
 <br/>
 </details>
 	
@@ -66,143 +63,130 @@ This artifcat does not currently exist, as the only three projects I have worked
 	<summary>III. Artifact Three: (Updated)</summary>
 <br/>
 ~~After the initial refinement plan, I ~~
+<br/>	
 	</details>
 
 
 
 ## Code Review
-My code review for my three artifacts can be found [here](https://youtu.be/ZsL6YUIJrj4)
+
+   The code review is a walkthrough of my two artifacts. At this point, I had already swapped my plans for the old artifact three to the new one. I discuss security risks of my code, and highlight various strengths and weaknesses. For instance, I discuss the various validations I had for user input within the original first Artifact (Code below.) These are simple validations but are import to prevent undefined behavior or other common security risks. 
+<br/>
+
+```C++
+    cout << "Enter your password: " << endl;
+    cin >> password;
+    //SECURITY FIX: ensures entry is a int
+    while (!cin) {
+        cout << "Password is numeric only, try again." << endl;
+        cin.clear();
+        cin.ignore();
+        cin >> password;
+    }
+```
+   I showed where the projects met their requirements, but also highlighted how they failed to meet best standards, or could be inproved. These areas for improve would later be focused on during my enhancements of the project. 
+My code review for the three artifacts can be found [here](https://youtu.be/ZsL6YUIJrj4)
 
 
-## Artifact One - Design - *Narrative*
+## Artifact One - *Design* - Narrative
 <details>
   <summary>Click to expand</summary>
   
 <br/>  
 	
-**Artifact Description**
+*Artifact Description*	
 	
-<br/>  
-	
-The artifact is a C++ program file. It was originally a product of my CS-410 Reverse Engineering final projects, which were finished in August 2021. The project was to take an object file without any documentation and recreate it as a C++ program after interpreting the assembly code, then applying some security fixes to it. 
+   The artifact is a C++ program file. It was originally a product of my CS-410 Reverse Engineering final projects, which were finished in August 2021. The project was to take an object file without any documentation and recreate it as a C++ program after interpreting the assembly code, then applying some security fixes to it. 
 
 <br/> 
 	
-*Justification*
+*Justification*	
 	
-<br/> 
-	
-This artifact was chosen as I felt it was basic but easily could be improved or modified in many ways. Additionally, the choice to use this artifact was based on it also being a prime candidate to add a database to, without being overly complicated. This artifact also shows my reverse engineering ability, and felt that being able to recreate this into another language (Java) also demonstrated an important and related skillset. The artifact has been improve as it now properly validates a proper username/password combination, and will record login history or attempts to a text file (or create the text file if there is none.) 
+   This artifact was chosen as I felt it was basic but easily could be improved or modified in many ways. Additionally, the choice to use this artifact was based on it also being a prime candidate to add a database to, without being overly complicated. This artifact also shows my reverse engineering ability, and felt that being able to recreate this into another language (Java) also demonstrated an important and related skillset. The artifact has been improve as it now properly validates a proper username/password combination, and will record login history or attempts to a text file (or create the text file if there is none.) 
 
 <br/>  
 	
-**Fulfillment of Course Objectives**
+*Fulfillment of Course Objectives*
 	
-<br/> 
-	
-The enhancements planned in Module one was met with this updated artifact; it was successfully recreated in Java, properly validates both a correct username and corresponding password, and records successful logins or attempts to a text file. Updated plans for this mostly revolve around Enhancement Three (databases), when a database will be tied into the program, and will contain the clients, users and login records. CRUD functionality will be added so the database can be used from the program. 
+   The enhancements planned in Module one was met with this updated artifact; it was successfully recreated in Java, properly validates both a correct username and corresponding password, and records successful logins or attempts to a text file. Updated plans for this mostly revolve around Enhancement Three (databases), when a database will be tied into the program, and will contain the clients, users and login records. CRUD functionality will be added so the database can be used from the program. 
 
 <br/>
 	
-**Reflection**
+*Reflection*
 	
+   During my enhancement, I immediately realized how rusty I was at Java compared to C++. This turned out to be a positive for me, as it gave me more experience with Java, and showed my ability to work with languages I am less comfortable with. I imagine the main challenges for this assignment will be to come during Enhancement Three and the inclusion of a database. 	
 <br/>
 	
-During my enhancement, I immediately realized how rusty I was at Java compared to C++. This turned out to be a positive for me, as it gave me more experience with Java, and showed my ability to work with languages I am less comfortable with. I imagine the main challenges for this assignment will be to come during Enhancement Three and the inclusion of a database. 
-	
-<br/>
-	
-[Artifact One Github Link](https://github.com/ehickey96/ePortfolio-Artifact-One)
-	
-<br/>  
-	
+[Artifact One Github Link](https://github.com/ehickey96/ePortfolio-Artifact-One)	
+<br/>  	
 </details>
 
-## Artifact Two - Algorithms - *Narrative*
+## Artifact Two - *Algorithms* - Narrative
 <details>
   <summary>Click to expand</summary>
-  
-<br/>
-	
- **Artifact Description**
-	
-<br/>  
-	
-The artifact is a Java program that was originally a project of my IT-145 Course. For this project, we were given a partially made menu-based program to manage cruises, ships, and passengers for a cruise company. This had specific requirements that we had to follow, but most of the project was just setting up basic object classes, and menu system handling.
-	
-<br/>  
-	
-**Justification**
-  
-<br/>
-	
-I chose this artifact, as I felt it was more complicated than the previous and could simply be modified to become a much more advanced system. I felt it was a clean base program that could be brought in multiple different directions. An additional benefit is that I will also be gaining even more Java experience which was something I was hoping for at the start of this course. This artifact was very elementary, but after successfully applying my enhancements well clearly show my ability to handle expanding to a more complex system, and my ability to incorporate more complicated algorithms. 
-
 <br/>	
+*Artifact Description*
 	
-**Fulfillment of Course Objectives**
-	
+   The artifact is a Java program that was originally a project of my IT-145 Course. For this project, we were given a partially made menu-based program to manage cruises, ships, and passengers for a cruise company. This had specific requirements that we had to follow, but most of the project was just setting up basic object classes, and menu system handling.	
 <br/>  
+*Justification*	
 	
-The enhancements originally planned in the refinement plan were not exactly met, but the results are similar. My updated menu system has much added complexities such as many extra attributes, and a simulation/calculation functions which showcase more complicated algorithms. Where my worked varied was the specific way I made a simulated. The main difference between the original plan the enhanced artifact I actually made is that I added many more features and distributed some into various different features (for instance, I have profit calculators and customer distributions as separate functions compared to my original plan which had them combined.) Where the enhanced algorithms show is in the calculator/simulator menu, which has two different calculator types (which can be used to optionally change the room prices if the user wants,) as well as a simulator which makes a mock list of customers and distributes them based on a number of factors and the use of RNG. This completes the requirement of adding a complex algorithm. 
-  
-<br/>
+   I chose this artifact, as I felt it was more complicated than the previous and could simply be modified to become a much more advanced system. I felt it was a clean base program that could be brought in multiple different directions. An additional benefit is that I will also be gaining even more Java experience which was something I was hoping for at the start of this course. This artifact was very elementary, but after successfully applying my enhancements well clearly show my ability to handle expanding to a more complex system, and my ability to incorporate more complicated algorithms. 
+<br/>		
+*Fulfillment of Course Objectives*
 	
-**Reflection**
-  
-<br/>
+   The enhancements originally planned in the refinement plan were not exactly met, but the results are similar. My updated menu system has much added complexities such as many extra attributes, and a simulation/calculation functions which showcase more complicated algorithms. Where my worked varied was the specific way I made a simulated. The main difference between the original plan the enhanced artifact I actually made is that I added many more features and distributed some into various different features (for instance, I have profit calculators and customer distributions as separate functions compared to my original plan which had them combined.) Where the enhanced algorithms show is in the calculator/simulator menu, which has two different calculator types (which can be used to optionally change the room prices if the user wants,) as well as a simulator which makes a mock list of customers and distributes them based on a number of factors and the use of RNG. This completes the requirement of adding a complex algorithm. 
+<br/>	
+*Reflection*
 	
-During this enhancement, I made a big mistake by adding too many attributes and adding a system that connects these various classes. This ended up creating a snowball effect of creating a complicated program that was hard to track and was taking a lot of work to maintain. I feel this program has a lot of positives, but before I submit it to the ePortolio, I plan to do a ton of clean up on the program within the code to consolidate as much of the code as possible. 
-
+   During this enhancement, I made a big mistake by adding too many attributes and adding a system that connects these various classes. This ended up creating a snowball effect of creating a complicated program that was hard to track and was taking a lot of work to maintain. I feel this program has a lot of positives, but before I submit it to the ePortolio, I plan to do a ton of clean up on the program within the code to consolidate as much of the code as possible. 
 <br/>	
 
-  [Artifact Two Github Link](https://github.com/ehickey96/ePortfolio-Artifact-Two)
+[Artifact Two Github Link](https://github.com/ehickey96/ePortfolio-Artifact-Two)
 
 </details>
 
 ## Artifact Three - *Databases* - Narrative
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to expand</summary>	
+<br/>
+*Artifact Description*
 	
-<br/>
-  
-  **Artifact Description**
-<br/>
-  
-The original artifact comes from the first enhancement included within the ePortfolio. A description of the ORIGINAL (the one that the first enhancement modified is as follows: 
-“The artifact is a Java program that was originally a project of my IT-145 Course. For this project, we were given a partially made menu-based program to manage cruises, ships, and passengers for a cruise company. This had specific requirements that we had to follow, but most of the project was just setting up basic object classes, and menu system handling. “
+   The original artifact comes from the first enhancement included within the ePortfolio. A description of the ORIGINAL (the one that the first enhancement modified is as follows: 
+>The artifact is a Java program that was originally a project of my IT-145 Course. For this project, we were given a partially made menu-based program to manage cruises, ships, and passengers for a cruise company. This had specific requirements that we had to follow, but most of the project was just setting up basic object classes, and menu system handling.
+	
 The previous artifact was a recreated Java version of that program (it was originally C++). It included a proper username/password validation and a login recorder.
-  
-<br/>
+<br/>	
+*Justification*	
 	
-**Justification**
-<br/>
+   This artifact was chosen because it seemed the most straight forward to add a database too. Since I had to add a database to a program which was not designed around a database, I thought a simpler program would be the most reasonable for a database within this time window. This worked well, as I could add the database, and then add more complexities, rather than the other way around. This will help meet requirements by demonstrating the incorporation of a DB within a project, search functionality and some CRUD functionality within (currently I plan to add a delete and add client methods, due to time restraints wont be included for this submission.)	
+<br/>  	
+*Fulfillment of Course Objectives*	
 	
-This artifact was chosen because it seemed the most straight forward to add a database too. Since I had to add a database to a program which was not designed around a database, I thought a simpler program would be the most reasonable for a database within this time window. This worked well, as I could add the database, and then add more complexities, rather than the other way around. This will help meet requirements by demonstrating the incorporation of a DB within a project, search functionality and some CRUD functionality within (currently I plan to add a delete and add client methods, due to time restraints wont be included for this submission.)
-	
+   The enhancement plan described by the approved code review is this enhancement. This enhancement differs from the one found in the 1-4 submission, but I feel it demonstrates complexities of adding a database to a preexisting program (something I have not done or attempted before). This program has partial CRUD operations (added the add and remove options is very straightforward and I know I can easily accomplish that.) It additionally has proper checking so that it can connect to the database and will automatically use a mock data instead if no connection can be made. 
 <br/>  
+*Reflection*	
 	
-**Fulfillment of Course Objectives**
-	
-<br/> 
-	
-The enhancement plan described by the approved code review is this enhancement. This enhancement differs from the one found in the 1-4 submission, but I feel it demonstrates complexities of adding a database to a preexisting program (something I have not done or attempted before). This program has partial CRUD operations (added the add and remove options is very straightforward and I know I can easily accomplish that.) It additionally has proper checking so that it can connect to the database and will automatically use a mock data instead if no connection can be made. 
-
-<br/>  
-
-**Reflection**
-
+   During this enhancement I was nervous about the inclusion of a database into an existing program, as that was new for me. I also had never created my own database before. I set up MySQL on my computer, and after I while I figured out how to properly create the database and users for it. I filled the database, then began working towards incorporating the database within the artifact. The artifact works by asking if the user wants to connect to the database. If the user says no, or if they say yes but the connection cannot be completed, the program will run the entire time utilizing only the mock hardcoded data. If a db connection is made, it will utilize the db. This was a great learning experience as there was a lot of new concepts for me here. 
 <br/>	
 	
-During this enhancement I was nervous about the inclusion of a database into an existing program, as that was new for me. I also had never created my own database before. I set up MySQL on my computer, and after I while I figured out how to properly create the database and users for it. I filled the database, then began working towards incorporating the database within the artifact. The artifact works by asking if the user wants to connect to the database. If the user says no, or if they say yes but the connection cannot be completed, the program will run the entire time utilizing only the mock hardcoded data. If a db connection is made, it will utilize the db. This was a great learning experience as there was a lot of new concepts for me here. 
-
-<br/>
-	
 NOTE: Demo Video can be found [here](https://youtu.be/WcCb6wnTHH0)
-
 <br/>  
-
 </details>
 
-##~~III. Artifact Three: DatabasesTEST~~
-~~##III. Artifact Three: DatabasesTEST2~~
+## Artifact Three - *Databases* - **Updated**
+<details>
+  <summary>Click to expand</summary>
+<br/>
+![image](https://user-images.githubusercontent.com/79385657/137342764-c526ba17-ecdd-4a4a-a206-b52247e60505.png)!
+   This artifact received a large updated after the original submission. A GUI was added, and the console can either be run as a basic console app or as a GUI. The method to determine how the app will launch is within the driver.java file. The GUI features the same validations on input (and will prompt the user with red text if input is invalid.) There is a String that must equal "CONFIRM" to run as a GUI. This app additionally now has proper add and remove client functionality, and as well has been packaged into an executable jar file (this jar was tested on a seperate machine to confirm functionality.)
+<br/> 
+	
+The github page for this project will have a README discussing how to use the program and more detailed features, the project itself, and the executable jar file. 
+<br/>
+	
+A new demo video was recorded, and can be found [here]()
+<br/>
+</details>
+
+
