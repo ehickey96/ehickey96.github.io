@@ -1,19 +1,19 @@
 # Index
-1. Professional Self Reflection
-2. Artifact Selection & Refinement Plan
+1. [Professional Self Reflection](https://github.com/ehickey96/ehickey96.github.io/blob/main/index.md#professional-self-reflection)
+2. [Artifact Selection & Refinement Plan](https://github.com/ehickey96/ehickey96.github.io/blob/main/index.md#artifact-selection-and-refinement-plan)
     1. Artifact One
     2. Artifact Two
-    3. ~~Artifact Three~~ (Scrapped)
+    3. Artifact Three (Scrapped)
     4. Artifact Three (Updated)
-3. Code Review
-4. Artifact One Enhancement Narrative 
-5. Artifact Two Enhancement Narrative
-6. Artifact Three Enhancement Narrative
+3. [Code Review](https://github.com/ehickey96/ehickey96.github.io/blob/main/index.md#code-review)
+4. [Artifact One Enhancement Narrative](https://github.com/ehickey96/ehickey96.github.io/blob/main/index.md#artifact-one---design---narrative)
+5. [Artifact Two Enhancement Narrative](https://github.com/ehickey96/ehickey96.github.io/blob/main/index.md#artifact-two---algorithms---narrative)
+6. [Artifact Three Enhancement Narrative](https://github.com/ehickey96/ehickey96.github.io/blob/main/index.md#artifact-three---databases---narrative)
 
 # Professional Self Reflection
 <details>
   <summary> 
-	  Professional Self Reflection TestV2
+	  Professional Self Reflection TestV5
 	</summary>
 	
 <br/>
