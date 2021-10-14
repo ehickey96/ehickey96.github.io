@@ -1,64 +1,43 @@
 # Index
-1. [Professional Self Reflection](https://github.com/ehickey96/ehickey96.github.io/blob/main/index.md#professional-self-reflection)
-2. [Artifact Selection & Refinement Plan](https://github.com/ehickey96/ehickey96.github.io/blob/main/index.md#artifact-selection-and-refinement-plan)
+1. [Professional Self Reflection](ehickey96.github.io/blob/main/index.md#professional-self-reflection)
+2. [Artifact Selection & Refinement Plan](ehickey96.github.io/blob/main/index.md#artifact-selection-and-refinement-plan)
     1. Artifact One
     2. Artifact Two
     3. Artifact Three (Scrapped)
     4. Artifact Three (Updated)
-3. [Code Review](https://github.com/ehickey96/ehickey96.github.io/blob/main/index.md#code-review)
-4. [Artifact One Enhancement Narrative](https://github.com/ehickey96/ehickey96.github.io/blob/main/index.md#artifact-one---design---narrative)
-5. [Artifact Two Enhancement Narrative](https://github.com/ehickey96/ehickey96.github.io/blob/main/index.md#artifact-two---algorithms---narrative)
+3. [Code Review](ehickey96.github.io/blob/main/index.md#code-review)
+4. [Artifact One Enhancement Narrative](ehickey96.github.io/blob/main/index.md#artifact-one---design---narrative)
+5. [Artifact Two Enhancement Narrative](ehickey96.github.io/blob/main/index.md#artifact-two---algorithms---narrative)
 6. [Artifact Three Enhancement Narrative](ehickey96.github.io/blob/main/index.md#artifact-three---databases---narrative)
 
-# Professional Self Reflection
-<details>
-  <summary> 
-	  Professional Self Reflection TestV8
-	</summary>
-	
-<br/>
-	
+# Professional Self Reflection Test V10
+
 TO:DOLink test
-## Header test
-	
+## Header test	
+*Italics*		
+**Bold**	
+<br/>	
+[link](https://youtu.be/ZsL6YUIJrj4)	
 <br/>
 	
-*Italics*/
-	
-<br/>
-	
-**Bold**
-	
-<br/>
-	
-[link](https://youtu.be/ZsL6YUIJrj4)
-	
-<br/>
-	
-</details>
+
 
 
 ## Artifact Selection and Refinement Plan
- 
-<details>
-  <summary>Click to Expand</summary>
-<br/>
 
 This is a showcase of my original artifact selection & refinement plan. Originally, I planned on creating a new artifact from scratch (the category thre
 
-<br/>
-	
-### I. Artifact One: Software Engineering/Design 
-	
-The artifact for the first Category will be taken from my CS-410 Project One and Two. These projects required me to take an object file, explain its functionality, and using that make a similar cpp file. Then for project two I had to identify coding vulnerabilities and fix them. For the enhancements, 
+ 
+<details>
+	<summary>I. Artifact One: Design</summary>
+	The artifact for the first Category will be taken from my CS-410 Project One and Two. These projects required me to take an object file, explain its functionality, and using that make a similar cpp file. Then for project two I had to identify coding vulnerabilities and fix them. For the enhancements, 
 The enhancement plan will start by recreating the original C++ program into a Java program. Once the program is remade, the next steps will be to add enhancements. An example of specific enhancements include adding a function that records each successful login (the username, password, and what time it takes place.) Another enhancement would also require usernames to be valid, and correspond to their given password. See flowchart on following page.
 The main skill being illustrated here is my ability to recreate a program into another language, while retaining the original programs look and functionality. This aligns with the category one modification to transfer a project into a different language. Login accounting and proper username / password pair verification aligns with the enhancements of improving and expanding a projects complexity. 
-
-<br/>
+	</details>
 	
-### II. Artifact Two: Algorithms and Data Structures 
-	
-<br/>
+<details>
+	<summary>II. Artifact Two: Algorithms and Data Structures</summary>
+	<br/>
 	
 This artifact came from my IT-145 Project. The original project was a simple console application that allowed users to see the ships, cruises, and passengers, and add or edit them.
 	
@@ -72,24 +51,22 @@ This calculator is the main modification being made and adds a complex algorithm
 	
 <br/>
 
-
-~~### III. Artifact Three: Databases~~  (Outdated)
+</details>
 	
-<br/>	
+<details>
+  <summary>III. Artifact Three: Database (Scrapped)</summary>
+	<br/>	
 	
 This artifcat does not currently exist, as the only three projects I have worked on that work with databases are locked behind my older courses. So this new project will be creating a full stack web application program that connects to a MongoDB with a python middleware. The enhancement plan is to create a full stack web application from scratch. It will start by creating a CSV file with the given data and then importing it to MongoDB. Then a Python Module will be used to perform operations on the database (CRUD operations minimum.) Finally a basic web application will be used to display results from the database, with the python module being used as middleware. The current plan is also to use Jupyter to create the front end of the stack. This demonstrates being able to make a full stack application, which is a variance of one of the recommended modifications for category three. 
 
 <br/>
-	
-### III. Artifact Three: Updated
-
-<br/>
-	
-After the initial refinement plan, I 
-
-<br/>	
-	
 </details>
+	
+<details>
+	<summary>III. Artifact Three: (Updated)</summary>
+<br/>
+~~After the initial refinement plan, I ~~
+	</details>
 
 
 
