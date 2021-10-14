@@ -2,7 +2,7 @@
    This ePortfolio will showcase a journey I took. The goal was to take older project I had, and improve upon them to create polished professional projects that showcased my skills as a software engineer. I started with a enhancement plan which discussed the projects, how they could be improved, and what those improvements show. Then, I performed a code review for those original projects. Then work began on improving the various artifacts. Finally, I made a professional Self Reflection to highlight the journey, showcase my skills and what a learned, and highlight my strengths as a software engineer. The index can be used to jump to each section, and links to each project's github page or other various other links are found within this document. 
 
 # Index
-1. [Professional Self Reflection](#professional-self-reflection---v12)
+1. [Professional Self Reflection](#professional-self-reflection---v13)
 2. [Artifact Selection & Refinement Plan](#artifact-selection-and-refinement-plan)
     1. Artifact One
     2. Artifact Two
@@ -15,7 +15,7 @@
 7. [Artifact Three - Update](#artifact-three--databases--updated)
 8. [Contact](#contact)
 
-# Professional Self Reflection - V11
+# Professional Self Reflection - V13
 
 ### Program and ePortfolio
    My academic journey has been invaluable at shaping me as a well rounded and confident software engineer. I have learned many different skills throughout this program and was able to showcase and polish my skills during the creation process of this ePortfolio. 
