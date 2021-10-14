@@ -1,4 +1,14 @@
-# ePortfolio - Elijah Hickey
+# Index
+1. Professional Self Reflection
+2. Artifact Selection & Refinement Plan
+    1. Artifact One
+    2. Artifact Two
+    3. ~~Artifact Three~~ (Scrapped)
+    4. Artifact Three (Updated)
+3. Code Review
+4. Artifact One Enhancement Narrative 
+5. Artifact Two Enhancement Narrative
+6. Artifact Three Enhancement Narrative
 
 # Professional Self Reflection
 <details>
@@ -8,15 +18,12 @@
 	
 <br/>
 	
-  TO:DOLink test
-	
-<br/>
-	
+TO:DOLink test
 ## Header test
 	
 <br/>
 	
-*Italics*
+*Italics*/
 	
 <br/>
 	
@@ -88,7 +95,7 @@ After the initial refinement plan, I
 My code review for my three artifacts can be found [here](https://youtu.be/ZsL6YUIJrj4)
 
 
- ## Artifact One - Design - *Narrative*
+## Artifact One - Design - *Narrative*
 <details>
   <summary>Click to expand</summary>
   
