@@ -10,11 +10,11 @@
     4. Artifact Three (Updated)
 3. [Code Review](ehickey96.github.io/blob/main/index.md#code-review)
 4. [Artifact One Enhancement Narrative](ehickey96.github.io/blob/main/index.md#artifact-one---design---narrative)
-5. [Artifact Two Enhancement Narrative](ehickey96.github.io/blob/main/index.md#artifact-two---algorithms---narrative)
+5. [Artifact Two Enhancement Narrative](ehickey96.github.io/blob/main/index.md#artifact-three---databases---narrative)
 6. [Artifact Three Enhancement Narrative](ehickey96.github.io/blob/main/index.md#artifact-three---databases---narrative)
-7. [Artifact Three - Update]()
+7. [Artifact Three - Update](ehickey96.github.io/blob/main/index.md#artifact-three---databases---updated)
 
-# Professional Self Reflection Test V12
+# Professional Self Reflection Test V13
 
 TO:DOLink test
 ## Header test	
@@ -188,7 +188,7 @@ NOTE: Demo Video can be found [here](https://youtu.be/WcCb6wnTHH0)
 The github page for this project will have a README discussing how to use the program and more detailed features, the project itself, and the executable jar file. 
 <br/>
 	
-A new demo video was recorded, and can be found [here]()
+An *updated* demo video was recorded, and can be found [here](https://youtu.be/onz51uDc5RE)
 <br/>
 </details>
 
