@@ -239,7 +239,7 @@ Here is a snippet of a function that from grabbed all the clients from the datab
 <br/>  
 </details>
 
-## Artifact Three | Databases | Updated
+### Artifact Three | Databases | Updated
 <details>
   <summary>Click to expand</summary>
 <br/>
