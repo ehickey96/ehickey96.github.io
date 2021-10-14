@@ -14,7 +14,7 @@
 6. [Artifact Three Enhancement Narrative](ehickey96.github.io/blob/main/index.md#artifact-three---databases---narrative)
 7. [Artifact Three - Update](ehickey96.github.io/blob/main/index.md#artifact-three---databases---updated)
 
-# Professional Self Reflection - V
+# Professional Self Reflection - V01
 
 ### Program and ePortfolio
    My academic journey has been invaluable at shaping me as a well rounded and confident software engineer. I have learned many different skills throughout this program and was able to showcase and polish my skills during the creation process of this ePortfolio. 
@@ -118,7 +118,7 @@ This artifact came from my IT-145 Project. The original project was a simple con
 
 <br/>
    
-My code review for the three artifacts can be found [here](https://youtu.be/ZsL6YUIJrj4)
+A link to the Code Review can be found [here](https://youtu.be/ZsL6YUIJrj4)
 
 
 ## Artifact One - *Design* - Narrative
@@ -204,7 +204,12 @@ The previous artifact was a recreated Java version of that program (it was origi
    During this enhancement I was nervous about the inclusion of a database into an existing program, as that was new for me. I also had never created my own database before. I set up MySQL on my computer, and after I while I figured out how to properly create the database and users for it. I filled the database, then began working towards incorporating the database within the artifact. The artifact works by asking if the user wants to connect to the database. If the user says no, or if they say yes but the connection cannot be completed, the program will run the entire time utilizing only the mock hardcoded data. If a db connection is made, it will utilize the db. This was a great learning experience as there was a lot of new concepts for me here. 
 <br/>	
 	
-NOTE: Demo Video can be found [here](https://youtu.be/WcCb6wnTHH0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WcCb6wnTHH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+<br/>
+	
+A link to the *old* Demo Video for this artifact can be found [here](https://youtu.be/WcCb6wnTHH0)
+	
 <br/>  
 </details>
 
@@ -220,8 +225,13 @@ NOTE: Demo Video can be found [here](https://youtu.be/WcCb6wnTHH0)
 	
 The github page for this project will have a README discussing how to use the program and more detailed features, the project itself, and the executable jar file. 
 <br/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/onz51uDc5RE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
-An *updated* demo video was recorded, and can be found [here](https://youtu.be/onz51uDc5RE)
+<br/>
+	
+A link to the *updated* Demo Video for this artifact can be found [here](https://youtu.be/onz51uDc5RE)
+	
 <br/>
 </details>
 
