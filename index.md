@@ -11,10 +11,10 @@
 3. [Code Review](#code-review)
 4. [Artifact One Enhancement Narrative](#artifact-one---design---narrative)
 5. [Artifact Two Enhancement Narrative](#artifact-three---databases---narrative)
-6. [Artifact Three Enhancement Narrative](#artifact-three---databases---narrative)
+6. [Artifact Three Enhancement Narrative](#artifact-three---databases---narrative) 
 7. [Artifact Three - Update](#artifact-three-databases-updated)
 
-# Professional Self Reflection - V05
+# Professional Self Reflection - V06
 
 ### Program and ePortfolio
    My academic journey has been invaluable at shaping me as a well rounded and confident software engineer. I have learned many different skills throughout this program and was able to showcase and polish my skills during the creation process of this ePortfolio. 
@@ -155,7 +155,7 @@ A link to the Code Review can be found [here](https://youtu.be/ZsL6YUIJrj4)
 <br/>  	
 </details>
 
-## Artifact Two - *Algorithms* - Narrative
+# Artifact Two - Algorithms - Narrative
 <details>
   <summary>Click to expand</summary>
 <br/>	
@@ -180,7 +180,7 @@ A link to the Code Review can be found [here](https://youtu.be/ZsL6YUIJrj4)
 
 </details>
 
-## Artifact Three - *Databases* - Narrative
+# Artifact Three - *Databases* - Narrative
 <details>
   <summary>Click to expand</summary>	
 <br/>
