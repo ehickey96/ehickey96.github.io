@@ -13,7 +13,7 @@
 # Professional Self Reflection
 <details>
   <summary> 
-	  Professional Self Reflection TestV6
+	  Professional Self Reflection TestV8
 	</summary>
 	
 <br/>
@@ -71,8 +71,9 @@ The enhancement plan follows the flowchart seen on the next page, yellow highlig
 This calculator is the main modification being made and adds a complex algorithm to calculate and simulate passenger distribution. This is used to help gauge what the price of each room should be set to, that way desired profit margins can better be met. This modification aligns with the expanded complexity of algorithms modification. 
 	
 <br/>
-	
-###~~III. Artifact Three: Databases~~  (Outdated)
+
+
+~~### III. Artifact Three: Databases~~  (Outdated)
 	
 <br/>	
 	
@@ -182,7 +183,7 @@ During this enhancement, I made a big mistake by adding too many attributes and 
 
 </details>
 
-## Artifact Three - Databases - *Narrative*
+## Artifact Three - *Databases* - Narrative
 <details>
   <summary>Click to expand</summary>
 	
@@ -226,4 +227,5 @@ NOTE: Demo Video can be found [here](https://youtu.be/WcCb6wnTHH0)
 
 </details>
 
-
+##~~III. Artifact Three: DatabasesTEST~~
+~~##III. Artifact Three: DatabasesTEST2~~
