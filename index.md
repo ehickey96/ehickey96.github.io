@@ -1,8 +1,9 @@
-# About this ePortfolio
+# ePortfolio - Elijah Hickey
+## About
    This ePortfolio will showcase a journey I took. The goal was to take older project I had, and improve upon them to create polished professional projects that showcased my skills as a software engineer. I started with a enhancement plan which discussed the projects, how they could be improved, and what those improvements show. Then, I performed a code review for those original projects. Then work began on improving the various artifacts. Finally, I made a professional Self Reflection to highlight the journey, showcase my skills and what a learned, and highlight my strengths as a software engineer. The index can be used to jump to each section, and links to each project's github page or other various other links are found within this document. 
 
 # Index
-1. [Professional Self Reflection](#professional-self-reflection---v13)
+1. [Professional Self Reflection](#professional-self-reflection---v14)
 2. [Artifact Selection & Refinement Plan](#artifact-selection-and-refinement-plan)
     1. Artifact One
     2. Artifact Two
@@ -15,7 +16,7 @@
 7. [Artifact Three - Update](#artifact-three--databases--updated)
 8. [Contact](#contact)
 
-# Professional Self Reflection - V13
+# Professional Self Reflection - V14
 
 ### Program and ePortfolio
    My academic journey has been invaluable at shaping me as a well rounded and confident software engineer. I have learned many different skills throughout this program and was able to showcase and polish my skills during the creation process of this ePortfolio. 
@@ -28,7 +29,7 @@ An import skill I learned was working within a team environment. During the Soft
    Other skills gained can be see in the many courses that helped grow my understanding of software design as well as security. The majority of my courses throughout my program expanded on my understanding of software design, and promoted security. Object Oriented Analysis and Design gave me a more advanced understanding of the design project and gave me in depth practice creating various design documentation (sequence diagrams, communication diagrams, class diagrams, CRC cards and more) as well as the value they add to the design process. This gave me practice with detailed design methods and strengthened me as a Software Engineer. Finally, throughout my program, I had been shown the importance of security throughout the development process. My Secure Programming course helped improve my understanding and skills in secure programming. I worked to create a security policy, understand defense in-depth, perform various testing, and gained experience practicing more advanced secure programming techniques and tests. These techniques have been carried over and can be seen throughout the projects here
 <br/>
 
-# Portfolio Summary
+### Portfolio Summary
 
    The three main enhanced artifacts of this portfolio demonstrate my ability to expand upon existing system, my software design strengths, use of advanced algorithms, utilization of databases, and development with security in mind. Additionally, each artifact was enhanced in under a weeks time, which further showcases my strengths as a Software Developer. The first artifact takes an extremely basic C++ console application that allowed for basic client management, and looks to expand upon it will remaking it in another programming language. The language I felt most comfortable in was C++, so during these projects all the artifacts were developed with Java. This program was rebuilt in Java as closely as possible to the original artifact. Then, additional functionalities and security improvements were added.  
 <br/>
@@ -148,7 +149,7 @@ A link to the Code Review can be found [here](https://youtu.be/ZsL6YUIJrj4)
 <br/>  	
 </details>
 
-# Artifact Two - *Algorithms* - Narrative
+## Artifact Two - *Algorithms* - Narrative
 <details>
   <summary>Click to expand</summary>
 <br/>	
@@ -174,7 +175,7 @@ A link to the Code Review can be found [here](https://youtu.be/ZsL6YUIJrj4)
 
 </details>
 
-# Artifact Three | Databases | Narrative
+## Artifact Three | Databases | Narrative
 <details>
   <summary>Click to expand</summary>	
 <br/>
@@ -203,7 +204,7 @@ The previous artifact was a recreated Java version of that program (it was origi
 	
 <br/>
 	
-A link to the *old* Demo Video for this artifact can be found [here](https://youtu.be/WcCb6wnTHH0)
+[Artifact Three Updated Github Link]()
 	
 <br/>  
 </details>
@@ -215,7 +216,7 @@ A link to the *old* Demo Video for this artifact can be found [here](https://you
 	
 ![image](https://user-images.githubusercontent.com/79385657/137342764-c526ba17-ecdd-4a4a-a206-b52247e60505.png)!
 	
-   This artifact received a large updated after the original submission. A GUI was added, and the console can either be run as a basic console app or as a GUI. The method to determine how the app will launch is within the driver.java file. The GUI features the same validations on input (and will prompt the user with red text if input is invalid.) There is a String that must equal "CONFIRM" to run as a GUI. This app additionally now has proper add and remove client functionality, and as well has been packaged into an executable jar file (this jar was tested on a seperate machine to confirm functionality.)
+   This artifact received a large updated after the original submission. A GUI was added, and the program can either be run as a basic console app or as with a GUI. The method to determine how the app will launch is within the driver.java file. The GUI features the same validations on input (and will prompt the user with red text if input is invalid.) There is a String that must equal "CONFIRM" to run as a GUI. This app additionally now has proper add and remove client functionality, and as well has been packaged into an executable jar file (this jar was tested on a seperate machine to confirm functionality.)
 <br/> 
 	
 The github page for this project will have a README discussing how to use the program and more detailed features, the project itself, and the executable jar file. 
@@ -225,13 +226,15 @@ The github page for this project will have a README discussing how to use the pr
 	
 <br/>
 	
-A link to the *updated* Demo Video for this artifact can be found [here](https://youtu.be/onz51uDc5RE)
+[Artifact Three Updated Github Link]()
+
+	
 	
 <br/>
 </details>
 
 ## Contact
-Feel free to contact me with any questions or inquires via email at [elijah.hickey@snhu.edu](elijah.hickey@snhu.edu)
+Feel free to contact me with any questions or inquires via email at <elijah.hickey@snhu.edu>
 
-[Return to top of Page](#about-this-eportfolio)
+[Return to top of Page](#about)
 
