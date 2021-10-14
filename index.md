@@ -2,7 +2,7 @@
    This ePortfolio will showcase a journey I took. The goal was to take older project I had, and improve upon them to create polished professional projects that showcased my skills as a software engineer. I started with a enhancement plan which discussed the projects, how they could be improved, and what those improvements show. Then, I performed a code review for those original projects. Then work began on improving the various artifacts. Finally, I made a professional Self Reflection to highlight the journey, showcase my skills and what a learned, and highlight my strengths as a software engineer. The index can be used to jump to each section, and links to each project's github page or other various other links are found within this document. 
 
 # Index
-1. [Professional Self Reflection](#professional-self-reflection---v11)
+1. [Professional Self Reflection](#professional-self-reflection---v12)
 2. [Artifact Selection & Refinement Plan](#artifact-selection-and-refinement-plan)
     1. Artifact One
     2. Artifact Two
@@ -11,7 +11,7 @@
 3. [Code Review](#code-review)
 4. [Artifact One Enhancement Narrative](#artifact-one--design--narrative)
 5. [Artifact Two Enhancement Narrative](#artifact-three---databases---narrative)
-6. [Artifact Three Enhancement Narrative](#artifact-three---databases---narrative) 
+6. [Artifact Three Enhancement Narrative](#artifact-three--databases--narrative) 
 7. [Artifact Three - Update](#artifact-three--databases--updated)
 8. [Contact](#contact)
 
@@ -118,7 +118,7 @@ This artifact came from my IT-145 Project. The original project was a simple con
 A link to the Code Review can be found [here](https://youtu.be/ZsL6YUIJrj4)
 
 
-## Artifact One - *Design* - Narrative
+## Artifact One | *Design* | Narrative
 <details>
   <summary>Click to expand</summary>
   
@@ -174,7 +174,7 @@ A link to the Code Review can be found [here](https://youtu.be/ZsL6YUIJrj4)
 
 </details>
 
-# Artifact Three - Databases - Narrative
+# Artifact Three | Databases | Narrative
 <details>
   <summary>Click to expand</summary>	
 <br/>
@@ -233,5 +233,5 @@ A link to the *updated* Demo Video for this artifact can be found [here](https:/
 ## Contact
 Feel free to contact me with any questions or inquires via email at elijah.hickey@snhu.edu
 
-
+[Return to top of Page](#about-this-eportfolio)
 
