@@ -3,18 +3,18 @@
 
 # Index
 1. [Professional Self Reflection](#professional-self-reflection)
-2. [Artifact Selection & Refinement Plan](#artifact-selection-and-refinement-plan)
+2. [Artifact Selection & Refinement Plan](#artifact-selection-and-refinement-plan---v07)
     1. Artifact One
     2. Artifact Two
     3. Artifact Three (Scrapped)
     4. Artifact Three (Updated)
 3. [Code Review](#code-review)
-4. [Artifact One Enhancement Narrative](#artifact-one---design---narrative)
-5. [Artifact Two Enhancement Narrative](#artifact-three---databases---narrative)
-6. [Artifact Three Enhancement Narrative](#artifact-three---databases---narrative) 
+4. [Artifact One Enhancement Narrative](#artifact-one--design--narrative)
+5. [Artifact Two Enhancement Narrative](#artifact-three--databases--narrative)
+6. [Artifact Three Enhancement Narrative](#artifact-three--databases--narrative) 
 7. [Artifact Three - Update](#artifact-three-databases-updated)
 
-# Professional Self Reflection - V06
+# Professional Self Reflection - V07
 
 ### Program and ePortfolio
    My academic journey has been invaluable at shaping me as a well rounded and confident software engineer. I have learned many different skills throughout this program and was able to showcase and polish my skills during the creation process of this ePortfolio. 
@@ -122,7 +122,7 @@ This artifact came from my IT-145 Project. The original project was a simple con
 A link to the Code Review can be found [here](https://youtu.be/ZsL6YUIJrj4)
 
 
-## Artifact One - *Design* - Narrative
+## Artifact One | *Design* | Narrative
 <details>
   <summary>Click to expand</summary>
   
@@ -155,7 +155,7 @@ A link to the Code Review can be found [here](https://youtu.be/ZsL6YUIJrj4)
 <br/>  	
 </details>
 
-# Artifact Two - Algorithms - Narrative
+# Artifact Two | Algorithms | Narrative
 <details>
   <summary>Click to expand</summary>
 <br/>	
@@ -180,7 +180,7 @@ A link to the Code Review can be found [here](https://youtu.be/ZsL6YUIJrj4)
 
 </details>
 
-# Artifact Three - *Databases* - Narrative
+# Artifact Three | Databases | Narrative
 <details>
   <summary>Click to expand</summary>	
 <br/>
@@ -214,7 +214,7 @@ A link to the *old* Demo Video for this artifact can be found [here](https://you
 <br/>  
 </details>
 
-# Artifact Three Databases Updated
+# Artifact Three | Databases | Updated
 <details>
   <summary>Click to expand</summary>
 <br/>
