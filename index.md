@@ -2,8 +2,8 @@
    This ePortfolio will showcase a journey I took. The goal was to take older project I had, and improve upon them to create polished professional projects that showcased my skills as a software engineer. I started with a enhancement plan which discussed the projects, how they could be improved, and what those improvements show. Then, I performed a code review for those original projects. Then work began on improving the various artifacts. Finally, I made a professional Self Reflection to highlight the journey, showcase my skills and what a learned, and highlight my strengths as a software engineer. The index can be used to jump to each section, and links to each project's github page or other various other links are found within this document. 
 
 # Index
-1. [Professional Self Reflection](#professional-self-reflection)
-2. [Artifact Selection & Refinement Plan](#artifact-selection-and-refinement-plan---v07)
+1. [Professional Self Reflection](#professional-self-reflection---v09)
+2. [Artifact Selection & Refinement Plan](#artifact-selection-and-refinement-plan)
     1. Artifact One
     2. Artifact Two
     3. Artifact Three (Scrapped)
@@ -14,31 +14,25 @@
 6. [Artifact Three Enhancement Narrative](#artifact-three--databases--narrative) 
 7. [Artifact Three - Update](#artifact-three-databases-updated)
 
-# Professional Self Reflection - V07
+# Professional Self Reflection - V09
 
 ### Program and ePortfolio
    My academic journey has been invaluable at shaping me as a well rounded and confident software engineer. I have learned many different skills throughout this program and was able to showcase and polish my skills during the creation process of this ePortfolio. 
 An import skill I learned was working within a team environment. During the Software Development Lifecycles course, I learned how to act as the various roles within an Agile team, and the strengths of such a team. It grew my team collaboration experience while giving me specific knowledge of Agile. This course also gave me an understanding of communication with stakeholders, and how beneficial  strong open communication is. It enables projects to be understood fully be all parties, and helps manage expectations and clarify realities of the project. The Collaboration and Team Projects course also presented me with the opportunities to work in a team environment working with version control. The skills I gained using Git and working as a team member will be crucial when I work with teams. This course showed the importance of managing multiple versions of a project, something I still practice even when the project is independent of a team. 
-
 <br/>
 
-   The introduction to SQL, Fundamentals of Data Mining and Client Server Development course helped me gain a strong understanding of databases and practice, creating, managing, utilizing, and implementing databases into other systems. During this capstone, I would apply that knowledge and create a MySQL database and incorporate it to my third Artifact found within this ePortfolio. My data structures and algorithms course advanced my understanding and capabilities as a software engineer. I worked with various data structure types, began understanding the importance of time and space complexity, and began to incorporate more advanced algorithms such as creating a method to search through a binary tree to add or remove entries. This knowledge advanced my understanding and appreciation of algorithms and data structures, and the role they play. 
-   
+   The introduction to SQL, Fundamentals of Data Mining and Client Server Development course helped me gain a strong understanding of databases and practice, creating, managing, utilizing, and implementing databases into other systems. During this capstone, I would apply that knowledge and create a MySQL database and incorporate it to my third Artifact found within this ePortfolio. My data structures and algorithms course advanced my understanding and capabilities as a software engineer. I worked with various data structure types, began understanding the importance of time and space complexity, and began to incorporate more advanced algorithms such as creating a method to search through a binary tree to add or remove entries. This knowledge advanced my understanding and appreciation of algorithms and data structures, and the role they play.  
 <br/> 
 
-   Other skills gained can be see in the many courses that helped grow my understanding of software design as well as security. The majority of my courses throughout my program expanded on my understanding of software design, and promoted security. Object Oriented Analysis and Design gave me a more advanced understanding of the design project and gave me in depth practice creating various design documentation (sequence diagrams, communication diagrams, class diagrams, CRC cards and more) as well as the value they add to the design process. This gave me practice with detailed design methods and strengthened me as a Software Engineer. Finally, throughout my program, I had been shown the importance of security throughout the development process. My Secure Programming course helped improve my understanding and skills in secure programming. I worked to create a security policy, understand defense in-depth, perform various testing, and gained experience practicing more advanced secure programming techniques and tests. These techniques have been carried over and can be seen throughout the projects here. 
-   
-<br/>
+   Other skills gained can be see in the many courses that helped grow my understanding of software design as well as security. The majority of my courses throughout my program expanded on my understanding of software design, and promoted security. Object Oriented Analysis and Design gave me a more advanced understanding of the design project and gave me in depth practice creating various design documentation (sequence diagrams, communication diagrams, class diagrams, CRC cards and more) as well as the value they add to the design process. This gave me practice with detailed design methods and strengthened me as a Software Engineer. Finally, throughout my program, I had been shown the importance of security throughout the development process. My Secure Programming course helped improve my understanding and skills in secure programming. I worked to create a security policy, understand defense in-depth, perform various testing, and gained experience practicing more advanced secure programming techniques and tests. These techniques have been carried over and can be seen throughout the projects here
 <br/>
 
 # Portfolio Summary
 
-   The three main enhanced artifacts of this portfolio demonstrate my ability to expand upon existing system, my software design strengths, use of advanced algorithms, utilization of databases, and development with security in mind. Additionally, each artifact was enhanced in under a weeks time, which further showcases my strengths as a Software Developer. The first artifact takes an extremely basic C++ console application that allowed for basic client management, and looks to expand upon it will remaking it in another programming language. The language I felt most comfortable in was C++, so during these projects all the artifacts were developed with Java. This program was rebuilt in Java as closely as possible to the original artifact. Then, additional functionalities and security improvements were added. 
-   
+   The three main enhanced artifacts of this portfolio demonstrate my ability to expand upon existing system, my software design strengths, use of advanced algorithms, utilization of databases, and development with security in mind. Additionally, each artifact was enhanced in under a weeks time, which further showcases my strengths as a Software Developer. The first artifact takes an extremely basic C++ console application that allowed for basic client management, and looks to expand upon it will remaking it in another programming language. The language I felt most comfortable in was C++, so during these projects all the artifacts were developed with Java. This program was rebuilt in Java as closely as possible to the original artifact. Then, additional functionalities and security improvements were added.  
 <br/>
 	
-   The second artifact was taken from an old Java console app that functioned as a menu system for a luxury cruise company. In the short time I worked on the app, I expanded upon the complexities of the system. The various class objects become much more detailed, and a dependency hierarchy was developed and adhered to. Prior to the enhancement, any dependances or connections was not enforced. For example, while a Cruise might state what ship it is using, there was no connection or validation of any sort. I looked to enforce as many dependences as possible throughout the app. Additionally, I used more advanced algorithms that could calculate what room costs should be to meet profit goals given specific criteria (and based off these calculations, the various pricing of the cruise could be adjusted to), as well as developed a simulator that can simulate potential customers to give profit predictions for a given cruise. 
-   
+   The second artifact was taken from an old Java console app that functioned as a menu system for a luxury cruise company. In the short time I worked on the app, I expanded upon the complexities of the system. The various class objects become much more detailed, and a dependency hierarchy was developed and adhered to. Prior to the enhancement, any dependances or connections was not enforced. For example, while a Cruise might state what ship it is using, there was no connection or validation of any sort. I looked to enforce as many dependences as possible throughout the app. Additionally, I used more advanced algorithms that could calculate what room costs should be to meet profit goals given specific criteria (and based off these calculations, the various pricing of the cruise could be adjusted to), as well as developed a simulator that can simulate potential customers to give profit predictions for a given cruise.   
 <br/>
 
    The third artifact came from the first enhancement. At this point, the menu system required users to login, and from there they could display clients or change a clients investment choice. The enhancements I planned for this artifact was to create and incorporate a database within the app. I accomplished this and then looked towards expanding its functionality. For another update, I wished to add more functionality to the program, incorporated permission validation system for the users, as well as allow the program to be utilize a GUI menu instead of simply being a console app. I succeeded in this, all while promoting as much security throughout the process.  This project forced me to work with many new tools. I added a GUI & a Database connectivity to an existing program, all while maintaining existing functionality, and expanding upon its features and security. 
@@ -59,11 +53,17 @@ The main skill being illustrated here is my ability to recreate a program into a
 	
 <details>
 	<summary>II. Artifact Two: Algorithms and Data Structures</summary>
+	
 <br/>
+	
 This artifact came from my IT-145 Project. The original project was a simple console application that allowed users to see the ships, cruises, and passengers, and add or edit them.
+	
 <br/>
+	
    The enhancement plan follows the flowchart seen on the next page, yellow highlights the additional complexities. It looks to add more complicated algorithms and data structures to the program. It does this be adding many different attributes to each object type. Some of the attributes would be automatically calculated (such as Net Profit for a cruise.) The main modification would be expanding complexity of algorithms. For this, a recommended price calculator/simulator will recommend what can be done to match the goal profit based off expected passengers, expected room allocations ratios, and the maximum expected amount each tier of passenger is willing to spend on a room type and the variance expected within that maximum. It will work by distributing the expected passengers within the rooms based off the given ratios, and determine what price’s can be set for each room type to meet the profit goals (a passenger is removed if their preferred room type is out of their maximum spending amount.) 
+	
 <br/>
+	
    This calculator is the main modification being made and adds a complex algorithm to calculate and simulate passenger distribution. This is used to help gauge what the price of each room should be set to, that way desired profit margins can better be met. This modification aligns with the expanded complexity of algorithms modification. 
 <br/>
 </details>
@@ -81,9 +81,11 @@ This artifact came from my IT-145 Project. The original project was a simple con
 <details>
 	<summary>III. Artifact Three: (Updated)</summary>
 <br/>
-~~After the initial refinement plan, I ~~
+	
+~~After the initial refinement plan, I~~
+
 <br/>	
-	</details>
+</details>
 
 
 
@@ -93,7 +95,7 @@ This artifact came from my IT-145 Project. The original project was a simple con
    
 <br/>
 
-```C++
+```c++
     cout << "Enter your password: " << endl;
     cin >> password;
     //SECURITY FIX: ensures entry is a int
@@ -105,13 +107,6 @@ This artifact came from my IT-145 Project. The original project was a simple con
     }
 ```
    I showed where the projects met their requirements, but also highlighted how they failed to meet best standards, or could be inproved. These areas for improve would later be focused on during my enhancements of the project. 
-  
-<br/>
-
-
-<br/>
-
-
 
 <br/>
    
@@ -131,19 +126,16 @@ A link to the Code Review can be found [here](https://youtu.be/ZsL6YUIJrj4)
 *Artifact Description*	
 	
    The artifact is a C++ program file. It was originally a product of my CS-410 Reverse Engineering final projects, which were finished in August 2021. The project was to take an object file without any documentation and recreate it as a C++ program after interpreting the assembly code, then applying some security fixes to it. 
-
 <br/> 
 	
 *Justification*	
 	
    This artifact was chosen as I felt it was basic but easily could be improved or modified in many ways. Additionally, the choice to use this artifact was based on it also being a prime candidate to add a database to, without being overly complicated. This artifact also shows my reverse engineering ability, and felt that being able to recreate this into another language (Java) also demonstrated an important and related skillset. The artifact has been improve as it now properly validates a proper username/password combination, and will record login history or attempts to a text file (or create the text file if there is none.) 
-
 <br/>  
 	
 *Fulfillment of Course Objectives*
 	
    The enhancements planned in Module one was met with this updated artifact; it was successfully recreated in Java, properly validates both a correct username and corresponding password, and records successful logins or attempts to a text file. Updated plans for this mostly revolve around Enhancement Three (databases), when a database will be tied into the program, and will contain the clients, users and login records. CRUD functionality will be added so the database can be used from the program. 
-
 <br/>
 	
 *Reflection*
@@ -155,10 +147,11 @@ A link to the Code Review can be found [here](https://youtu.be/ZsL6YUIJrj4)
 <br/>  	
 </details>
 
-# Artifact Two | Algorithms | Narrative
+# Artifact Two | *Algorithms* | Narrative
 <details>
   <summary>Click to expand</summary>
 <br/>	
+	
 *Artifact Description*
 	
    The artifact is a Java program that was originally a project of my IT-145 Course. For this project, we were given a partially made menu-based program to manage cruises, ships, and passengers for a cruise company. This had specific requirements that we had to follow, but most of the project was just setting up basic object classes, and menu system handling.	
@@ -180,7 +173,7 @@ A link to the Code Review can be found [here](https://youtu.be/ZsL6YUIJrj4)
 
 </details>
 
-# Artifact Three | Databases | Narrative
+# Artifact Three | *Databases* | Narrative
 <details>
   <summary>Click to expand</summary>	
 <br/>
@@ -214,7 +207,7 @@ A link to the *old* Demo Video for this artifact can be found [here](https://you
 <br/>  
 </details>
 
-# Artifact Three | Databases | Updated
+## Artifact Three | *Databases* | **Updated**
 <details>
   <summary>Click to expand</summary>
 <br/>
