@@ -110,7 +110,7 @@ This artifact came from my IT-145 Project. The original project was a simple con
 
 <br/>
 
-{% youtube https://www.youtube.com/embed/ZsL6YUIJrj4 %}
+
 
 <br/>
    
