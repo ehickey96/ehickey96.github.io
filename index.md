@@ -107,8 +107,6 @@ This artifact came from my IT-145 Project. The original project was a simple con
   
 <br/>
 
-   
-{% youtube /v8o-Vd__I-A 560 315 %}
 
 <br/>
 
