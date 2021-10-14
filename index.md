@@ -14,22 +14,7 @@
 6. [Artifact Three Enhancement Narrative](ehickey96.github.io/blob/main/index.md#artifact-three---databases---narrative)
 7. [Artifact Three - Update](ehickey96.github.io/blob/main/index.md#artifact-three---databases---updated)
 
-# Professional Self Reflection Test V13
-
-TO:DOLink test
-## Header test	
-*Italics*
-<br/>
-**Bold**	
-<br/>	
-[link](https://youtu.be/ZsL6YUIJrj4)	
-<br/>
-	
-
-
-
-## Artifact Selection and Refinement Plan
-<br/>
+# Professional Self Reflection - V
 
 ### Program and ePortfolio
    My academic journey has been invaluable at shaping me as a well rounded and confident software engineer. I have learned many different skills throughout this program and was able to showcase and polish my skills during the creation process of this ePortfolio. 
@@ -46,7 +31,7 @@ An import skill I learned was working within a team environment. During the Soft
 <br/>
 <br/>
 
-Portfolio Summary
+# Portfolio Summary
 
    The three main enhanced artifacts of this portfolio demonstrate my ability to expand upon existing system, my software design strengths, use of advanced algorithms, utilization of databases, and development with security in mind. Additionally, each artifact was enhanced in under a weeks time, which further showcases my strengths as a Software Developer. The first artifact takes an extremely basic C++ console application that allowed for basic client management, and looks to expand upon it will remaking it in another programming language. The language I felt most comfortable in was C++, so during these projects all the artifacts were developed with Java. This program was rebuilt in Java as closely as possible to the original artifact. Then, additional functionalities and security improvements were added. 
    
@@ -58,7 +43,11 @@ Portfolio Summary
 
    The third artifact came from the first enhancement. At this point, the menu system required users to login, and from there they could display clients or change a clients investment choice. The enhancements I planned for this artifact was to create and incorporate a database within the app. I accomplished this and then looked towards expanding its functionality. For another update, I wished to add more functionality to the program, incorporated permission validation system for the users, as well as allow the program to be utilize a GUI menu instead of simply being a console app. I succeeded in this, all while promoting as much security throughout the process.  This project forced me to work with many new tools. I added a GUI & a Database connectivity to an existing program, all while maintaining existing functionality, and expanding upon its features and security. 
 
- 
+
+
+## Artifact Selection and Refinement Plan
+<br/>
+
 <details>
 	<summary>I. Artifact One: Design</summary>
 	
@@ -100,6 +89,7 @@ This artifact came from my IT-145 Project. The original project was a simple con
 ## Code Review
 
    The code review is a walkthrough of my two artifacts. At this point, I had already swapped my plans for the old artifact three to the new one. I discuss security risks of my code, and highlight various strengths and weaknesses. For instance, I discuss the various validations I had for user input within the original first Artifact (Code below.) These are simple validations but are import to prevent undefined behavior or other common security risks. 
+   
 <br/>
 
 ```C++
@@ -114,6 +104,22 @@ This artifact came from my IT-145 Project. The original project was a simple con
     }
 ```
    I showed where the projects met their requirements, but also highlighted how they failed to meet best standards, or could be inproved. These areas for improve would later be focused on during my enhancements of the project. 
+  
+<br/>
+
+   
+{% youtube /v8o-Vd__I-A 560 315 %}
+
+<br/>
+
+{% youtube https://www.youtube.com/embed/ZsL6YUIJrj4 %}
+
+<br/>
+   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZsL6YUIJrj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+   
 My code review for the three artifacts can be found [here](https://youtu.be/ZsL6YUIJrj4)
 
 
@@ -208,7 +214,9 @@ NOTE: Demo Video can be found [here](https://youtu.be/WcCb6wnTHH0)
 <details>
   <summary>Click to expand</summary>
 <br/>
+	
 ![image](https://user-images.githubusercontent.com/79385657/137342764-c526ba17-ecdd-4a4a-a206-b52247e60505.png)!
+	
    This artifact received a large updated after the original submission. A GUI was added, and the console can either be run as a basic console app or as a GUI. The method to determine how the app will launch is within the driver.java file. The GUI features the same validations on input (and will prompt the user with red text if input is invalid.) There is a String that must equal "CONFIRM" to run as a GUI. This app additionally now has proper add and remove client functionality, and as well has been packaged into an executable jar file (this jar was tested on a seperate machine to confirm functionality.)
 <br/> 
 	
