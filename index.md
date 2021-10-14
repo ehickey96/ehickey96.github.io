@@ -16,7 +16,7 @@
 7. [Artifact Three - Update](#artifact-three--databases--updated)
 8. [Contact](#contact)
 
-# Professional Self-Assessment
+# Professional Self Assessment
 
 This professional self-assessment will serve as a reflection on my experience within my Computer Science program as SNHU and during the developement of this capstone, and showcase the projects I've included within this ePortfolio. This was done over an 8 week course, which also helps demosntrate my adaptibility and ability to learn. I have learned a tremendous amount at SNHU and I have grown during this capstone, and this will be exemplified by this ePortfolio.  
 
@@ -27,7 +27,6 @@ An import skill I learned was working within a team environment. During the Soft
 
    The introduction to SQL, Fundamentals of Data Mining and Client Server Development course helped me gain a strong understanding of databases and practice, creating, managing, utilizing, and implementing databases into other systems. During this capstone, I would apply that knowledge and create a MySQL database and incorporate it to my third Artifact found within this ePortfolio. My data structures and algorithms course advanced my understanding and capabilities as a software engineer. I worked with various data structure types, began understanding the importance of time and space complexity, and began to incorporate more advanced algorithms such as creating a method to search through a binary tree to add or remove entries. This knowledge advanced my understanding and appreciation of algorithms and data structures, and the role they play.  
 <br/> 
-
 Other skills gained can be see in the many courses that helped grow my understanding of software design as well as security. The majority of my courses throughout my program expanded on my understanding of software design, and promoted security. Object Oriented Analysis and Design gave me a more advanced understanding of the design project and gave me in depth practice creating various design documentation (sequence diagrams, communication diagrams, class diagrams, CRC cards and more) as well as the value they add to the design process. This gave me practice with detailed design methods and strengthened me as a Software Engineer. Finally, throughout my program, I had been shown the importance of security throughout the development process. My Secure Programming course helped improve my understanding and skills in secure programming. I worked to create a security policy, understand defense in-depth, perform various testing, and gained experience practicing more advanced secure programming techniques and tests. These techniques have been carried over and can be seen throughout the projects here. There are many other incredibly courses I have taken at SNHU , which have also all aided in my growth as a software engineer.
 <br/>
 
@@ -129,12 +128,12 @@ A link to the Code Review can be found [here](https://youtu.be/ZsL6YUIJrj4)
 	
    The artifact is a C++ program file. It was originally a product of my CS-410 Reverse Engineering final projects, which were finished in August 2021. The project was to take an object file without any documentation and recreate it as a C++ program after interpreting the assembly code, then applying some security fixes to it. 
 	
-<br/> 	
+ 	
 *Justification*	
 	
    This artifact was chosen as I felt it was basic but easily could be improved or modified in many ways. Additionally, the choice to use this artifact was based on it also being a prime candidate to add a database to, without being overly complicated. This artifact also shows my reverse engineering ability, and felt that being able to recreate this into another language (Java) also demonstrated an important and related skillset. The artifact has been improve as it now properly validates a proper username/password combination, and will record login history or attempts to a text file (or create the text file if there is none.) 
 	
-<br/>  	
+ 	
 *Reflection*
 	
    During my enhancement, I immediately realized how rusty I was at Java compared to C++. This turned out to be a positive for me, as it gave me more experience with Java, and showed my ability to work with languages I am less comfortable with. I imagine the main challenges for this assignment will be to come during Enhancement Three and the inclusion of a database. This project was developed at the very start with security in mind, as various validation was done for all user input and other security checks such as ensuring an index position exists before trying to access an array. This artifact demonstrates my skills with design and engineering.
@@ -156,12 +155,12 @@ This image shows the basic console app.
 	
    The artifact is a Java program that was originally a project of my IT-145 Course. For this project, we were given a partially made menu-based program to manage cruises, ships, and passengers for a cruise company. This had specific requirements that we had to follow, but most of the project was just setting up basic object classes, and menu system handling.	
 	
-<br/>	
+	
 *Justification*	
 	
    I chose this artifact, as I felt it was more complicated than the previous and could simply be modified to become a much more advanced system. I felt it was a clean base program that could be brought in multiple different directions. An additional benefit is that I will also be gaining even more Java experience which was something I was hoping for at the start of this course. This artifact was very elementary, but after successfully applying my enhancements well clearly show my ability to handle expanding to a more complex system, and my ability to incorporate more complicated algorithms. 
 	
-<br/>		
+		
 *Reflection*
 	
    During this enhancement, I made a big mistake by adding too many attributes and adding a system that connects these various classes. This ended up creating a snowball effect of creating a complicated program that was hard to track and was taking a lot of work to maintain (mostly due to the short time frame I could work on this.) This program showcases my ability to work with more complex systems as there was multiple dependences (documented in the readme and found throughout the code.) It also demonstrated the use of more advanced algorithms, such as a simulator or calculator sections of the program. 
@@ -189,12 +188,12 @@ Here is an example from the simulation part of the program. You pass the expecte
 	
 The previous artifact was a recreated Java version of that program (it was originally C++). It included a proper username/password validation and a login recorder.
 	
-<br/>	
+
 *Justification*	
 	
    This artifact was chosen because it seemed the most straight forward to add a database too. Since I had to add a database to a program which was not designed around a database, I thought a simpler program would be the most reasonable for a database within this time window. This worked well, as I could add the database, and then add more complexities, rather than the other way around. This will help meet requirements by demonstrating the incorporation of a DB within a project, search functionality and some CRUD functionality within (currently I plan to add a delete and add client methods, due to time restraints wont be included for this submission.)
 	
-<br/>  	
+	
 *Reflection*	
 	
    During this enhancement I was nervous about the inclusion of a database into an existing program, as that was new for me. I also had never created my own database from scratch before. I set up MySQL on my computer, and after I while I figured out how to properly create the database and users for it. I filled the database, then began working towards incorporating the database within the artifact. The artifact works by asking if the user wants to connect to the database. If the user says no, or if they say yes but the connection cannot be completed, the program will run the entire time utilizing only the mock hardcoded data. If a db connection is made, it will utilize the db. This was a great learning experience as there was a lot of new concepts for me here. 
