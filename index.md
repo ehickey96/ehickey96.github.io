@@ -14,7 +14,7 @@
 6. [Artifact Three Enhancement Narrative](ehickey96.github.io/blob/main/index.md#artifact-three---databases---narrative)
 7. [Artifact Three - Update]()
 
-# Professional Self Reflection Test V11
+# Professional Self Reflection Test V12
 
 TO:DOLink test
 ## Header test	
@@ -55,7 +55,9 @@ This artifact came from my IT-145 Project. The original project was a simple con
 <details>
   <summary>III. Artifact Three: Database (Scrapped)</summary>
 <br/>	
+	
 >This artifact does not currently exist, as the only three projects I have worked on that work with databases are locked behind my older courses. So this new project will be creating a full stack web application program that connects to a MongoDB with a python middleware. The enhancement plan is to create a full stack web application from scratch. It will start by creating a CSV file with the given data and then importing it to MongoDB. Then a Python Module will be used to perform operations on the database (CRUD operations minimum.) Finally a basic web application will be used to display results from the database, with the python module being used as middleware. The current plan is also to use Jupyter to create the front end of the stack. This demonstrates being able to make a full stack application, which is a variance of one of the recommended modifications for category three. 
+	
 <br/>
 </details>
 	
@@ -150,6 +152,7 @@ My code review for the three artifacts can be found [here](https://youtu.be/ZsL6
 <details>
   <summary>Click to expand</summary>	
 <br/>
+
 *Artifact Description*
 	
    The original artifact comes from the first enhancement included within the ePortfolio. A description of the ORIGINAL (the one that the first enhancement modified is as follows: 
