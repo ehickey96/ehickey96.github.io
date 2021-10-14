@@ -13,7 +13,7 @@
 # Professional Self Reflection
 <details>
   <summary> 
-	  Professional Self Reflection Test
+	  Professional Self Reflection TestV2
 	</summary>
 	
 <br/>
@@ -38,7 +38,8 @@ TO:DOLink test
 </details>
 
 
- ## Artifact Selection and Refinement Plan
+## Artifact Selection and Refinement Plan
+ 
 <details>
   <summary>Click to Expand</summary>
 <br/>
