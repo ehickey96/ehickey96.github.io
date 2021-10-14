@@ -1,9 +1,9 @@
 # ePortfolio - Elijah Hickey
 ## About
-   This ePortfolio will showcase a journey I took. The goal was to take older project I had, and improve upon them to create polished professional projects that showcased my skills as a software engineer. I started with a enhancement plan which discussed the projects, how they could be improved, and what those improvements show. Then, I performed a code review for those original projects. Then work began on improving the various artifacts. Finally, I made a professional Self Reflection to highlight the journey, showcase my skills and what a learned, and highlight my strengths as a software engineer. The index can be used to jump to each section, and links to each project's github page or other various other links are found within this document. 
+   This ePortfolio will showcase a journey I took. The goal was to take older projects I had, and improve upon them to create polished professional projects as a capstone for the Computer Science program at SNHU.  This would double as an ePortfolio, showcasing my skills and strengths as a software engineer. I started with a enhancement plan which discussed the projects, how they could be improved, and what those improvements show. Then, I performed a code review for those original projects. Then work began on improving the various artifacts. Finally, I made a professional Self Reflection to highlight the journey, showcase my skills and what a learned, and highlight my strengths as a software engineer. The index can be used to jump to each section, and links to each project's github page or other various other links are found within this document. The refinement plan is kept & quoted as those are the original documents. The rest will be updated to fit in this ePortfolio.
 
 # Index
-1. [Professional Self Reflection](#professional-self-reflection---v14)
+1. [Professional Self Reflection](#professional-self-reflection---v17)
 2. [Artifact Selection & Refinement Plan](#artifact-selection-and-refinement-plan)
     1. Artifact One
     2. Artifact Two
@@ -11,12 +11,12 @@
     4. Artifact Three (Updated)
 3. [Code Review](#code-review)
 4. [Artifact One Enhancement Narrative](#artifact-one--design--narrative)
-5. [Artifact Two Enhancement Narrative](#artifact-three---databases---narrative)
+5. [Artifact Two Enhancement Narrative](#artifact-three--databases--narrative)
 6. [Artifact Three Enhancement Narrative](#artifact-three--databases--narrative) 
 7. [Artifact Three - Update](#artifact-three--databases--updated)
 8. [Contact](#contact)
 
-# Professional Self Reflection - V14
+# Professional Self Reflection - V17
 
 ### Program and ePortfolio
    My academic journey has been invaluable at shaping me as a well rounded and confident software engineer. I have learned many different skills throughout this program and was able to showcase and polish my skills during the creation process of this ePortfolio. 
@@ -26,7 +26,7 @@ An import skill I learned was working within a team environment. During the Soft
    The introduction to SQL, Fundamentals of Data Mining and Client Server Development course helped me gain a strong understanding of databases and practice, creating, managing, utilizing, and implementing databases into other systems. During this capstone, I would apply that knowledge and create a MySQL database and incorporate it to my third Artifact found within this ePortfolio. My data structures and algorithms course advanced my understanding and capabilities as a software engineer. I worked with various data structure types, began understanding the importance of time and space complexity, and began to incorporate more advanced algorithms such as creating a method to search through a binary tree to add or remove entries. This knowledge advanced my understanding and appreciation of algorithms and data structures, and the role they play.  
 <br/> 
 
-   Other skills gained can be see in the many courses that helped grow my understanding of software design as well as security. The majority of my courses throughout my program expanded on my understanding of software design, and promoted security. Object Oriented Analysis and Design gave me a more advanced understanding of the design project and gave me in depth practice creating various design documentation (sequence diagrams, communication diagrams, class diagrams, CRC cards and more) as well as the value they add to the design process. This gave me practice with detailed design methods and strengthened me as a Software Engineer. Finally, throughout my program, I had been shown the importance of security throughout the development process. My Secure Programming course helped improve my understanding and skills in secure programming. I worked to create a security policy, understand defense in-depth, perform various testing, and gained experience practicing more advanced secure programming techniques and tests. These techniques have been carried over and can be seen throughout the projects here
+Other skills gained can be see in the many courses that helped grow my understanding of software design as well as security. The majority of my courses throughout my program expanded on my understanding of software design, and promoted security. Object Oriented Analysis and Design gave me a more advanced understanding of the design project and gave me in depth practice creating various design documentation (sequence diagrams, communication diagrams, class diagrams, CRC cards and more) as well as the value they add to the design process. This gave me practice with detailed design methods and strengthened me as a Software Engineer. Finally, throughout my program, I had been shown the importance of security throughout the development process. My Secure Programming course helped improve my understanding and skills in secure programming. I worked to create a security policy, understand defense in-depth, perform various testing, and gained experience practicing more advanced secure programming techniques and tests. These techniques have been carried over and can be seen throughout the projects here
 <br/>
 
 ### Portfolio Summary
@@ -55,15 +55,12 @@ The main skill being illustrated here is my ability to recreate a program into a
 	
 <details>
 	<summary>II. Artifact Two: Algorithms and Data Structures</summary>
-	
 <br/>
 	
-This artifact came from my IT-145 Project. The original project was a simple console application that allowed users to see the ships, cruises, and passengers, and add or edit them.
-	
+This artifact came from my IT-145 Project. The original project was a simple console application that allowed users to see the ships, cruises, and passengers, and add or edit them.	
 <br/>
 	
    The enhancement plan follows the flowchart seen on the next page, yellow highlights the additional complexities. It looks to add more complicated algorithms and data structures to the program. It does this be adding many different attributes to each object type. Some of the attributes would be automatically calculated (such as Net Profit for a cruise.) The main modification would be expanding complexity of algorithms. For this, a recommended price calculator/simulator will recommend what can be done to match the goal profit based off expected passengers, expected room allocations ratios, and the maximum expected amount each tier of passenger is willing to spend on a room type and the variance expected within that maximum. It will work by distributing the expected passengers within the rooms based off the given ratios, and determine what price’s can be set for each room type to meet the profit goals (a passenger is removed if their preferred room type is out of their maximum spending amount.) 
-	
 <br/>
 	
    This calculator is the main modification being made and adds a complex algorithm to calculate and simulate passenger distribution. This is used to help gauge what the price of each room should be set to, that way desired profit margins can better be met. This modification aligns with the expanded complexity of algorithms modification. 
@@ -84,7 +81,7 @@ This artifact came from my IT-145 Project. The original project was a simple con
 	<summary>III. Artifact Three: (Updated)</summary>
 <br/>
 	
-~~After the initial refinement plan, I~~
+At this point, the new enhancement plan (I discuss this in my code review) was to create a database, incorporate that with the first enhanced artifact, and incorporate the add & remove client functionality. I ended up adding more than this, as you can see in the updated narrative [here](#artifact-three--databases--updated)
 
 <br/>	
 </details>
@@ -119,7 +116,7 @@ This artifact came from my IT-145 Project. The original project was a simple con
 A link to the Code Review can be found [here](https://youtu.be/ZsL6YUIJrj4)
 
 
-## Artifact One | *Design* | Narrative
+## Artifact One | Design | Narrative
 <details>
   <summary>Click to expand</summary>
   
@@ -144,12 +141,15 @@ A link to the Code Review can be found [here](https://youtu.be/ZsL6YUIJrj4)
 	
    During my enhancement, I immediately realized how rusty I was at Java compared to C++. This turned out to be a positive for me, as it gave me more experience with Java, and showed my ability to work with languages I am less comfortable with. I imagine the main challenges for this assignment will be to come during Enhancement Three and the inclusion of a database. 	
 <br/>
-	
+This image shows the basic console app.
+<br/>
+![image](https://user-images.githubusercontent.com/79385657/137383615-8cc122d1-9629-48f8-b1f6-575462106a18.png)
+		
 [Artifact One Github Link](https://github.com/ehickey96/ePortfolio-Artifact-One)	
 <br/>  	
 </details>
 
-## Artifact Two - *Algorithms* - Narrative
+## Artifact Two | Algorithms | Narrative
 <details>
   <summary>Click to expand</summary>
 <br/>	
@@ -171,6 +171,12 @@ A link to the Code Review can be found [here](https://youtu.be/ZsL6YUIJrj4)
    During this enhancement, I made a big mistake by adding too many attributes and adding a system that connects these various classes. This ended up creating a snowball effect of creating a complicated program that was hard to track and was taking a lot of work to maintain. I feel this program has a lot of positives, but before I submit it to the ePortolio, I plan to do a ton of clean up on the program within the code to consolidate as much of the code as possible. 
 <br/>	
 
+Here is an example from the simulation part of the program. You pass the expected amount of customers, customer interest distribution, max amount each customer type is willing to spend, and maximum amount of variance. Then it will simulate every customer and how many would be interested in their room given the price. 
+<br/>
+	
+![image](https://user-images.githubusercontent.com/79385657/137381090-ebab1512-015d-4093-927e-93702e2d6523.png)
+	
+	
 [Artifact Two Github Link](https://github.com/ehickey96/ePortfolio-Artifact-Two)
 
 </details>
@@ -199,6 +205,43 @@ The previous artifact was a recreated Java version of that program (it was origi
 	
    During this enhancement I was nervous about the inclusion of a database into an existing program, as that was new for me. I also had never created my own database before. I set up MySQL on my computer, and after I while I figured out how to properly create the database and users for it. I filled the database, then began working towards incorporating the database within the artifact. The artifact works by asking if the user wants to connect to the database. If the user says no, or if they say yes but the connection cannot be completed, the program will run the entire time utilizing only the mock hardcoded data. If a db connection is made, it will utilize the db. This was a great learning experience as there was a lot of new concepts for me here. 
 <br/>	
+
+Here is a snippet of a function that from grabbed all the clients from the database.  It showcases my repeated security checks and best practises. 
+<br/>
+```c++
+    //function to get all the clients (will then call the client interpreter)
+    public static ArrayList getAllClients() {
+    	//first, double checks that there is still is a connection
+    	try {
+			Connection connection = getConnection();
+			try {
+				Statement statement = connection.createStatement();
+				ResultSet results = statement.executeQuery("SELECT * FROM clients");
+				
+				ArrayList<Client> serverClients = new ArrayList();
+				
+				//loops through the result set, getting each client and adding it to serverClient array
+				while(results.next()) {
+					Client client = resultsinterpreterClient(results);
+					serverClients.add(client);
+				}
+				
+				return serverClients;	
+				
+			//sql error
+			} catch (SQLException e) {
+				e.printStackTrace();
+			}	
+			
+			//returns null indicating query failed
+	    	return null;	
+	    	//connection lost after program has been started & connection was originally validated
+		} catch (SQLException e) {
+			throw new RuntimeException("Error: Connection lost after intitional connection test. Now Closeing.", e);
+		}	
+    }
+```
+	
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WcCb6wnTHH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
@@ -237,4 +280,7 @@ The github page for this project will have a README discussing how to use the pr
 Feel free to contact me with any questions or inquires via email at <elijah.hickey@snhu.edu>
 
 [Return to top of Page](#about)
+	
+[Return to title](#eportfolio---elijah-hickey)
+
 
