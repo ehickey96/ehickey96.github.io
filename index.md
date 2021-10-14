@@ -3,7 +3,7 @@
    This page will showcase a journey I took. The goal was to take older projects I had, and improve upon them to create polished professional projects as a capstone for the Computer Science program at SNHU.  This would double as an ePortfolio, showcasing my skills and strengths as a software engineer. I started with a enhancement plan which discussed the projects, how they could be improved, and what those improvements show. Then, I performed a code review for those original projects. Then work began on improving the various artifacts. Finally, I made a professional Self Reflection to highlight the journey, showcase my skills and what a learned, and highlight my strengths as a software engineer. The index can be used to jump to each section, and links to each project's github page or other various other links are found within this document. The refinement plan is kept & quoted as those are the original documents. The rest will be updated to fit in this ePortfolio.
 
 # Index
-1. [Professional Self Reflection](#professional-self-reflection)
+1. [Professional Self Assessment](#professional-self-Assessment)
 2. [Artifact Selection & Refinement Plan](#artifact-selection-and-refinement-plan)
     1. Artifact One
     2. Artifact Two
@@ -16,11 +16,11 @@
 7. [Artifact Three - Update](#artifact-three--databases--updated)
 8. [Contact](#contact)
 
-# Professional Self Reflection
-### Professional Self-Assessment
+# Professional Self-Assessment
+
 This professional self-assessment will serve as a reflection on my experience within my Computer Science program as SNHU and during the developement of this capstone, and showcase the projects I've included within this ePortfolio. This was done over an 8 week course, which also helps demosntrate my adaptibility and ability to learn. I have learned a tremendous amount at SNHU and I have grown during this capstone, and this will be exemplified by this ePortfolio.  
 
-### Program and ePortfolio
+### Educational Program Experience
    My academic journey has been invaluable at shaping me as a well rounded and confident software engineer. I have learned many different skills throughout this program and was able to showcase and polish my skills during the creation process of this ePortfolio. 
 An import skill I learned was working within a team environment. During the Software Development Lifecycles course, I learned how to act as the various roles within an Agile team, and the strengths of such a team. It grew my team collaboration experience while giving me specific knowledge of Agile. This course also gave me an understanding of communication with stakeholders, and how beneficial  strong open communication is. It enables projects to be understood fully be all parties, and helps manage expectations and clarify realities of the project. The Collaboration and Team Projects course also presented me with the opportunities to work in a team environment working with version control. The skills I gained using Git and working as a team member will be crucial when I work with teams. This course showed the importance of managing multiple versions of a project, something I still practice even when the project is independent of a team. 
 <br/>
@@ -31,7 +31,7 @@ An import skill I learned was working within a team environment. During the Soft
 Other skills gained can be see in the many courses that helped grow my understanding of software design as well as security. The majority of my courses throughout my program expanded on my understanding of software design, and promoted security. Object Oriented Analysis and Design gave me a more advanced understanding of the design project and gave me in depth practice creating various design documentation (sequence diagrams, communication diagrams, class diagrams, CRC cards and more) as well as the value they add to the design process. This gave me practice with detailed design methods and strengthened me as a Software Engineer. Finally, throughout my program, I had been shown the importance of security throughout the development process. My Secure Programming course helped improve my understanding and skills in secure programming. I worked to create a security policy, understand defense in-depth, perform various testing, and gained experience practicing more advanced secure programming techniques and tests. These techniques have been carried over and can be seen throughout the projects here. There are many other incredibly courses I have taken at SNHU , which have also all aided in my growth as a software engineer.
 <br/>
 
-### Portfolio Summary
+### Portfolio Experience & Summary
 
    The three main enhanced artifacts of this portfolio demonstrate my ability to expand upon existing system, my software design strengths, use of advanced algorithms, utilization of databases, and development with security in mind. Additionally, each artifact was enhanced in under a weeks time, which further showcases my strengths as a Software Developer. The first artifact takes an extremely basic C++ console application that allowed for basic client management, and looks to expand upon it will remaking it in another programming language. The language I felt most comfortable in was C++, so during these projects all the artifacts were developed with Java. This program was rebuilt in Java as closely as possible to the original artifact. Then, additional functionalities and security improvements were added.  
 <br/>
