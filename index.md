@@ -8,12 +8,12 @@
 3. [Code Review](https://github.com/ehickey96/ehickey96.github.io/blob/main/index.md#code-review)
 4. [Artifact One Enhancement Narrative](https://github.com/ehickey96/ehickey96.github.io/blob/main/index.md#artifact-one---design---narrative)
 5. [Artifact Two Enhancement Narrative](https://github.com/ehickey96/ehickey96.github.io/blob/main/index.md#artifact-two---algorithms---narrative)
-6. [Artifact Three Enhancement Narrative](https://github.com/ehickey96/ehickey96.github.io/blob/main/index.md#artifact-three---databases---narrative)
+6. [Artifact Three Enhancement Narrative](ehickey96.github.io/blob/main/index.md#artifact-three---databases---narrative)
 
 # Professional Self Reflection
 <details>
   <summary> 
-	  Professional Self Reflection TestV5
+	  Professional Self Reflection TestV6
 	</summary>
 	
 <br/>
@@ -72,7 +72,7 @@ This calculator is the main modification being made and adds a complex algorithm
 	
 <br/>
 	
-### ~~III. Artifact Three: Databases~~  (Outdated)
+###~~III. Artifact Three: Databases~~  (Outdated)
 	
 <br/>	
 	
