@@ -12,9 +12,9 @@
 4. [Artifact One Enhancement Narrative](ehickey96.github.io/blob/main/index.md#artifact-one---design---narrative)
 5. [Artifact Two Enhancement Narrative](ehickey96.github.io/blob/main/index.md#artifact-three---databases---narrative)
 6. [Artifact Three Enhancement Narrative](ehickey96.github.io/blob/main/index.md#artifact-three---databases---narrative)
-7. [Artifact Three - Update](ehickey96.github.io/blob/main/index.md#artifact-three---databases---updated)
+7. [Artifact Three - Update](artifact-three-databases-updated)
 
-# Professional Self Reflection - V01
+# Professional Self Reflection - V02
 
 ### Program and ePortfolio
    My academic journey has been invaluable at shaping me as a well rounded and confident software engineer. I have learned many different skills throughout this program and was able to showcase and polish my skills during the creation process of this ePortfolio. 
@@ -213,7 +213,7 @@ A link to the *old* Demo Video for this artifact can be found [here](https://you
 <br/>  
 </details>
 
-## Artifact Three - *Databases* - **Updated**
+# Artifact Three Databases Updated
 <details>
   <summary>Click to expand</summary>
 <br/>
