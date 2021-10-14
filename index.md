@@ -29,7 +29,34 @@ TO:DOLink test
 
 
 ## Artifact Selection and Refinement Plan
-This is a showcase of my original artifact selection & refinement plan. Originally, I planned on creating a new artifact from scratch (the category thre
+<br/>
+
+### Program and ePortfolio
+   My academic journey has been invaluable at shaping me as a well rounded and confident software engineer. I have learned many different skills throughout this program and was able to showcase and polish my skills during the creation process of this ePortfolio. 
+An import skill I learned was working within a team environment. During the Software Development Lifecycles course, I learned how to act as the various roles within an Agile team, and the strengths of such a team. It grew my team collaboration experience while giving me specific knowledge of Agile. This course also gave me an understanding of communication with stakeholders, and how beneficial  strong open communication is. It enables projects to be understood fully be all parties, and helps manage expectations and clarify realities of the project. The Collaboration and Team Projects course also presented me with the opportunities to work in a team environment working with version control. The skills I gained using Git and working as a team member will be crucial when I work with teams. This course showed the importance of managing multiple versions of a project, something I still practice even when the project is independent of a team. 
+
+<br/>
+
+   The introduction to SQL, Fundamentals of Data Mining and Client Server Development course helped me gain a strong understanding of databases and practice, creating, managing, utilizing, and implementing databases into other systems. During this capstone, I would apply that knowledge and create a MySQL database and incorporate it to my third Artifact found within this ePortfolio. My data structures and algorithms course advanced my understanding and capabilities as a software engineer. I worked with various data structure types, began understanding the importance of time and space complexity, and began to incorporate more advanced algorithms such as creating a method to search through a binary tree to add or remove entries. This knowledge advanced my understanding and appreciation of algorithms and data structures, and the role they play. 
+   
+<br/> 
+
+   Other skills gained can be see in the many courses that helped grow my understanding of software design as well as security. The majority of my courses throughout my program expanded on my understanding of software design, and promoted security. Object Oriented Analysis and Design gave me a more advanced understanding of the design project and gave me in depth practice creating various design documentation (sequence diagrams, communication diagrams, class diagrams, CRC cards and more) as well as the value they add to the design process. This gave me practice with detailed design methods and strengthened me as a Software Engineer. Finally, throughout my program, I had been shown the importance of security throughout the development process. My Secure Programming course helped improve my understanding and skills in secure programming. I worked to create a security policy, understand defense in-depth, perform various testing, and gained experience practicing more advanced secure programming techniques and tests. These techniques have been carried over and can be seen throughout the projects here. 
+   
+<br/>
+<br/>
+
+Portfolio Summary
+
+   The three main enhanced artifacts of this portfolio demonstrate my ability to expand upon existing system, my software design strengths, use of advanced algorithms, utilization of databases, and development with security in mind. Additionally, each artifact was enhanced in under a weeks time, which further showcases my strengths as a Software Developer. The first artifact takes an extremely basic C++ console application that allowed for basic client management, and looks to expand upon it will remaking it in another programming language. The language I felt most comfortable in was C++, so during these projects all the artifacts were developed with Java. This program was rebuilt in Java as closely as possible to the original artifact. Then, additional functionalities and security improvements were added. 
+   
+<br/>
+	
+   The second artifact was taken from an old Java console app that functioned as a menu system for a luxury cruise company. In the short time I worked on the app, I expanded upon the complexities of the system. The various class objects become much more detailed, and a dependency hierarchy was developed and adhered to. Prior to the enhancement, any dependances or connections was not enforced. For example, while a Cruise might state what ship it is using, there was no connection or validation of any sort. I looked to enforce as many dependences as possible throughout the app. Additionally, I used more advanced algorithms that could calculate what room costs should be to meet profit goals given specific criteria (and based off these calculations, the various pricing of the cruise could be adjusted to), as well as developed a simulator that can simulate potential customers to give profit predictions for a given cruise. 
+   
+<br/>
+
+   The third artifact came from the first enhancement. At this point, the menu system required users to login, and from there they could display clients or change a clients investment choice. The enhancements I planned for this artifact was to create and incorporate a database within the app. I accomplished this and then looked towards expanding its functionality. For another update, I wished to add more functionality to the program, incorporated permission validation system for the users, as well as allow the program to be utilize a GUI menu instead of simply being a console app. I succeeded in this, all while promoting as much security throughout the process.  This project forced me to work with many new tools. I added a GUI & a Database connectivity to an existing program, all while maintaining existing functionality, and expanding upon its features and security. 
 
  
 <details>
