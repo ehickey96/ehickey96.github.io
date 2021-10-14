@@ -231,7 +231,7 @@ A link to the *updated* Demo Video for this artifact can be found [here](https:/
 </details>
 
 ## Contact
-Feel free to contact me with any questions or inquires via email at elijah.hickey@snhu.edu
+Feel free to contact me with any questions or inquires via email at [elijah.hickey@snhu.edu](elijah.hickey@snhu.edu)
 
 [Return to top of Page](#about-this-eportfolio)
 
