@@ -1,6 +1,15 @@
 # ePortfolio - Elijah Hickey
 ### About
-   This page will showcase a journey I took. The goal was to take older projects I had, and improve upon them to create polished professional projects as a capstone for the Computer Science program at SNHU.  This would double as an ePortfolio, showcasing my skills and strengths as a software engineer. I started with a enhancement plan which discussed the projects, how they could be improved, and what those improvements show. Then, I performed a code review for those original projects. Then work began on improving the various artifacts. Finally, I made a professional Self Reflection to highlight the journey, showcase my skills and what a learned, and highlight my strengths as a software engineer. The index can be used to jump to each section, and links to each project's github page or other various other links are found within this document. The refinement plan is kept & quoted as those are the original documents. The rest will be updated to fit in this ePortfolio.
+   This page will showcase a journey I took. The goal was to take older projects I had, and improve upon them to create polished professional projects as a capstone for the Computer Science program at SNHU.  This would double as an ePortfolio, showcasing my skills and strengths as a software engineer. I started with a enhancement plan which discussed the projects, how they could be improved, and what those improvements show. Then, I performed a code review for those original projects. Then work began on improving the various artifacts. Finally, I made a professional Self Reflection to highlight the journey, showcase my skills and what a learned, and highlight my strengths as a software engineer. The index can be used to jump to each section, and links to each project's github page or other various other links are found within this document. The refinement plan is kept & quoted as those are the original documents. The rest will be updated to fit in this ePortfolio. The artifact links can be found below.
+
+[Artifact One Github Link](https://github.com/ehickey96/ePortfolio-Artifact-One)	
+
+
+[Artifact Two Github Link](https://github.com/ehickey96/ePortfolio-Artifact-Two)
+   
+   
+[Artifact Three Github Link](https://github.com/ehickey96/ePortfolio-Artifact-Three)
+
 
 # Index
 1. [Professional Self Assessment](#professional-self-assessment)
